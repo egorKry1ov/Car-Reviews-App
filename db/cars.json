@@ -1,0 +1,493 @@
+[
+    {
+        "make": "Mazda",
+        "model": "MX-6 Miata",
+        "year": "2021",
+        "img": "https://media-service.carmax.com/img/vehicles/22242284/1_cleaned.jpg?width=800",
+        "description": "For 30 years, the Mazda Miata has been synonymous with fun. Lightweight, lively and communicative, the 2020 Mazda MX-5 Miata has the same carefree, top-down motoring persona as the original 1990s-era Miata roadster.Indeed, when Mazda redesigned this latest Miata generation for the 2016 model year, it made an effort to keep the car's weight down while equipping it with all of the modern features people expect. The result is that the 2020 Miata is roughly the same size and only a couple hundred of pounds heavier than the original.Though rival convertibles or sport coupes are generally roomier and more usable day to day, the Miata is unmatched in its ability to simply let you enjoy the pleasures of driving.",
+        "rating": 8.0,
+            "pros": [
+                "Extremely fun and engaging to drive, even at low speeds",
+                "One of the most fuel-efficient sports cars you can buy",
+                "Manual soft top is easy to raise or lower quickly",
+                "Respectably compliant and smooth ride quality"
+            ],
+            "cons": [
+                "Not much room to stretch out inside",
+                "Limited cargo space in a tiny trunk",
+                "Cabin gets fairly loud at highway speeds even with the top up"
+            ]
+        },
+    {
+        "make": "Honda",
+        "model": "Accord",
+        "year": 2020,
+        "img": "https://media-service.carmax.com/img/vehicles/22080712/1_cleaned.jpg?width=800",
+        "description": "The Honda Accord has long been a front-runner for people searching for a well-rounded midsize sedan. This current generation debuted for 2018, and the 2022 Accord carries on with impressive refinement, comfort and fuel efficiency. Available with two turbocharged engines as well as a hybrid model, plus loads of tech and advanced driver aids, the Accord offers excellent value for your money.So, yes, the Accord is one of our favorite sedans. But it's no longer at the very top of our rankings. The Kia K5, and its corporate sibling the Hyundai Sonata, both offer an abundance of features and long warranties. There's also the Kia Stinger to consider — it's got style and performance in spades — or even Honda's redesigned 2022 Civic. But on the whole, the Accord continues to be a smart pick. Read our Expert Rating below to get our test team's evaluation of the Accord's performance, comfort and more.",
+        "rating": 8.3,
+            "pros": [
+                "Engines are both powerful and fuel-efficient",
+                "Interior is cavernous and fitted with upscale materials",
+                "Sporty handling makes it fun to drive",
+                "Many advanced driver safety aids come standard"    
+                    ],
+            "cons": [
+                "Not as quiet as some rival sedans",
+                "Low seating position slightly hampers entry and exit"
+                    ]
+        }
+        ,
+    {
+        "make": "Ford",
+        "model": "Fusion",
+        "year": 2019,
+        "img": "https://media-service.carmax.com/img/vehicles/21299937/1_cleaned.jpg?width=800",
+        "description": "The 2019 Ford Fusion hasn't changed dramatically in the last few years, and that's a good thing. The Fusion is in a highly competitive class of midsize sedans, but it continues to impress us with its comfortable interior, user-friendly tech and great driving dynamics.The 2018 Fusion would also be lost in this class if it weren't for its high-quality interior and abundant available safety equipment. Available items such as adaptive cruise control, an automated parking system and forward collision mitigation should definitely appeal to the safety-conscious, while Sync 3's excellent controls should satisfy the tech crowd.The Fusion has a few flaws, but most of them are related to base versions of the car and they can be dealt with via a few upgrades. For instance, the base 2.5-liter engine doesn't have much power, but three available options offer improved performance. So while the 2018 Ford Fusion may look relatively similar on the outside to Fusions from years past, the rest of this midsize sedan has been continually updated to assure that it remains a top competitor in the class.",
+        "rating": 7.9,
+            "pros": [
+                "Great combination of sharp handling and a composed ride",
+                "Quiet interior with an elegant design and high-quality materials",
+                "Abundance of available advanced safety equipment",
+                "Optional all-wheel drive for cold-weather climates "   
+                    ],
+            "cons": [
+                "Standard tech interface more frustrating to use than some rivals' systems",
+                "Underwhelming acceleration from base engine",
+                "Real-world fuel economy doesn't always match EPA estimates"
+                    ]
+        }
+,
+    {
+        "make": "Nissan",
+        "model": "Altima",
+        "year": 2021,
+        "img": "https://media-service.carmax.com/img/vehicles/22194285/1_cleaned.jpg?width=800",
+        "description": "The 2021 Nissan Altima is a four-door midsize family sedan that was completely overhauled just a couple years ago. As one of the newer choices in the segment, the Altima offers an impressive amount of cutting-edge safety features — several of which are packaged in Nissan's ProPilot Assist system. With driving aids such as lane-centering assist and adaptive cruise control, the ProPilot Assist features are generally more intuitive and accurate than similar systems in competitors. ProPilot Assist is so superior in fact that we think it's the Altima's killer app. The Altima also offers an all-wheel-drive powertrain on most trims, which is uncommon for the class.But if semi-automated driving or all-weather traction aren't major considerations, the 2021 Altima is fairly average among its competitors. Nissan's midsize is still worth consideration, but rivals including the Honda Accord and Mazda 6 are more refined and fun to drive and cost about the same money.",
+        "rating": 7.6,
+            "pros": [
+                "Offers full suite of semi-automated driving features",
+                "Above-average estimated and real-world fuel economy",
+                "Easy-to-drive nature"    
+                    ],
+            "cons": [
+                "Poor outward visibility due to thick roof pillars and low-res rear camera",
+                "Steering lacks road feel and can be slow to respond",
+                "Uninspiring interior materials and disappointing fit and finish",
+                "Base S trim offers less equipment than most modern sedans"
+                    ]
+        },
+    {
+        "make": "Toyota",
+        "model": "RAV4",
+        "year": 2019,
+        "img":"https://media-service.carmax.com/img/vehicles/22047544/1_cleaned.jpg?width=800",
+        "description": "The 2019 RAV4 gets a 2.5-liter engine that produces 203 horsepower, which is 27 hp more than last year's model. And it's not just more powerful, it's more efficient, too. The new engine, plus a new eight-speed automatic transmission and a lighter curb weight compared to last year, help the new RAV4 get an EPA-estimated 30 mpg combined (26 city/35 highway), which makes it one of the most fuel-efficient crossovers available.Inside, the RAV4 is comfortable and spacious. The controls are easy to find and, depending on the trim level you select, there are nice surfaces lining the cabin. Apple CarPlay comes standard on every RAV4, as does Toyota's Safety Sense Suite 2.0, which includes adaptive cruise control, lane keeping assist, and forward collision mitigation with automatic braking. On a lot of other SUVs, you have to upgrade to the more expensive trim levels to get these safety features.Toyota is still offering an Adventure trim level this year. Notably, it gets some styling cues to make it look a little more like Toyota's trucks plus a special all-wheel-drive system that can provide extra traction. Then you have all of the traditional RAV4 strengths. It has excellent cargo space, a big back seat, and a comfortable ride on the highway. In short, the new RAV4 has gotten significantly better without losing any of the versatility that has made it so popular in the past.",
+        "rating": 7.7,
+            "pros": [
+                "Quiet interior and comfortable ride quality",
+                "Abundant cargo and passenger space",
+                "Controls are easy to use "   
+                    ],
+            "cons": [
+                "Lackluster power from base powertrain, no other engines available",
+                "Uncomfortable front passenger seat",
+                "Vague steering means you'll sometimes misjudge your inputs"
+                    ]
+        },
+    {
+        "make": "Acura",
+        "model": "MDX",
+        "year": 2019,
+        "img": "https://media-service.carmax.com/img/vehicles/22402446/1_cleaned.jpg?width=800",
+        "description": "The current generation MDX dates back to the 2014 model year, which is definitely getting into senior citizen status for the automotive world. Yet the 2019 Acura MDX's virtues are intact. Thanks to a constant stream of updates, the MDX remains a top pick for a luxury SUV. With three rows of seating and a large, comfortable cabin, it works great as a family hauler, and it presents plenty of value thanks to an impressive number of standard features for the money.It's available with two powertrains. The optional gasoline-electric hybrid has a 3.0-liter V6 engine, while the base version has a 3.5-liter V6. While the hybrid delivers better fuel economy and quicker acceleration, the base version is no slouch. All MDXs are available with Acura's sophisticated Super Handling All-Wheel-Drive (SH-AWD) system, which has a tangible positive influence on handling.",
+        "rating": 8.0,
+            "pros": [
+                "Generous array of features and active driver aids for the money",
+                "Optional SH-AWD system enhances handling and all-season traction",
+                "Smooth and confident acceleration from the V6 engine",
+                "Quiet, comfortable and spacious cabin"    
+                    ],
+            "cons": [
+                "Cabin looks and feels less luxurious than those of some rivals",
+                "Adaptive cruise control can be slow to respond and abrupt when it does",
+                "Two-screen infotainment system is nonintuitive and difficult to control"
+                    ]
+        },
+    {
+        "make": "Acura",
+        "model": "ILX",
+        "year": 2021,
+        "img": "https://media-service.carmax.com/img/vehicles/22061018/1_cleaned.jpg?width=800",
+        "description": "The ILX is a small entry-level luxury sedan from Acura. The least expensive vehicle in the automaker's lineup, the ILX offers a luxury badge at an affordable price. As you'd probably expect from a luxury brand, the ILX comes with lots of standard safety features, but there are some missing elements. Unlike rival sedans from BMW and Mercedes, the 2021 Acura ILX doesn't feel as modern or as special as it should. It also doesn't feel as refined as it should. To find out more about the ILX and how it stacks up against competitors, read the full Expert Rating below.",
+        "rating": 6.6,
+            "pros": [
+                "Plenty of features for the money",
+                "Good fuel economy"
+                        
+                    ],
+            "cons": [
+                "Lightweight, plasticky interior trim",
+                "Overly stiff ride",
+                "Many tech features are outdated",
+                "Leisurely acceleration, especially for the class"
+                    ]
+        },
+    {
+        "make": "Audi",
+        "model": "A8",
+        "year": 2019,
+        "img": "https://media-service.carmax.com/img/vehicles/22105023/1_cleaned.jpg?width=800",
+        "description": "Redesigned for 2019, the A8 signals all sorts of changes for Audi. With a new infotainment interface, more advanced safety features and an updated powertrain with mild-hybrid technology, the A8 should be worth a close lookThe A8's infotainment interface, still referred to as Audi MMI, is completely redesigned. It's a multi-touchscreen system, and there's no longer a controller knob. In our early testing, we've found that using these touchscreen-only controls increases the possibility of causing driver distraction. Luckily, the voice controls work flawlessly. And after some learning, the system can become second nature.The A8 also gets many of Audi's newest and most high-tech safety features such as Pre Sense Plus, Pre Sense Rear and Pre Sense Side, all of which are designed to protect you even before a collision occurs. Then there's adaptive cruise control, steering assist and an available 360-degree parking camera. Certainly, this A8 is on the cutting edge.",
+        "rating": 7.4,
+            "pros": [
+                "Impeccably crafted cabin",
+                "Impressive interior appointments and technology",
+                "Responsive steering and cornering for a big sedan",
+                "Exceptionally comfortable seats all around"    
+                    ],
+            "cons": [
+                "Relatively small trunk",
+                "Infotainment interface can be tough to learn",
+                "Powertrain is a little unrefined",
+                "Ride is too floaty at high speeds and bumpy around town"
+                
+                    ]
+        },
+    {
+        "make": "Chevy",
+        "model": "Blazer",
+        "year": 2020,
+        "img": "https://media-service.carmax.com/img/vehicles/22384870/1_cleaned.jpg?width=800",
+        "description": "The Blazer name has a storied past within the walls of General Motors. It started as an SUV variant of Chevrolet's full-size trucks, before moving to the smaller S-10 pickup chassis in the early '80s. After being mothballed for a decade and a half, the nameplate was resurrected just last year, but the modern iteration is much different from its forebears. The 2020 Chevrolet Blazer is a midsize crossover better suited for on-road duty than its predecessors, but it loses some magic in the process.There's no doubt about it: The modern Chevy Blazer is one of the most distinctive SUVs on the market. Its Camaro-inspired exterior immediately stands out among the long list of boxy, utilitarian competitors. The muscle car aesthetic carries over to the interior, which truly feels like a Camaro expanded to fit a much larger vehicle. If you just want a powerful SUV that looks good, stop reading now and run to your nearest bowtie dealer.If you want a functional interior, however, you might consider something else. The aggressive design that makes the Blazer look so darn good comes at the cost of rear headroom and cargo room. The Blazer also shares one of the Camaro's worst aspects: impaired rear visibility. You'll definitely want to upgrade to at least the 1LT trim with the Convenience and Driver Confidence package to get the blind-spot monitor, which we consider a must-have for the Blazer.",
+        "rating": 7.3,
+            "pros": [
+                "Refined ride quality",
+                "Strong optional V6 engine",
+                "Infotainment system is attractive and easy to use",
+                "Agile handling for an SUV "   
+                    ],
+            "cons": [
+                "Base engine is underpowered",
+                "Compromised headroom for rear passengers",
+                "Maximum cargo capacity is lower than that of several rivals",
+                "Limited availability of advanced driver safety aids"
+                
+                    ]
+        },
+    {
+        "make": "Chevy",
+        "model": "Camaro",
+        "year": 2021,
+        "img": "https://media-service.carmax.com/img/vehicles/21919444/1_cleaned.jpg?width=800",
+        "description": "Muscle cars never died; they just evolved. Today, these symbols of Americana are more sophisticated and more technologically advanced than their forebears. The 2021 Chevrolet Camaro, for example, can do a lot more than just rip down the drag strip. It also offers excellent handling, the latest infotainment features, and plenty of speed no matter which engine you choose. A mighty 6.2-liter V8 engine is the jewel of the lineup, but the V6 and turbocharged four-cylinder also have spirit. As for features, the 2021 Camaro now comes with wireless capability for Apple CarPlay and Android Auto, which means you can integrate your phone to the touchscreen without having to plug it in with a USB cable. As before, poor visibility and a lack of storage space limit the Camaro's usability. But when it comes to the driving experience, the Camaro is tops in its class.",
+        "rating": 7.4,
+            "pros": [
+                "Impressively sharp and nimble handling around turns",
+                "Potent acceleration from V6 and V8 engines",
+                "Relatively smooth ride, especially with the adaptive suspension",
+                "Solid value thanks to a long list of standard equipment"    
+                    ],
+            "cons": [
+                "Difficult to see out of",
+                "Tiny back seat is essentially useless",
+                "Limited trunk space with small opening",
+                "Some controls are awkward to use"
+                
+                    ]
+        },
+    {
+        "make": "Chevy",
+        "model": "Equinox",
+        "year": 2019,
+        "img": "https://media-service.carmax.com/img/vehicles/22362297/1_cleaned.jpg?width=800",
+        "description": "Fortune doesn't necessarily favor the bold in the compact crossover segment — the Honda CR-V, the Nissan Rogue and the Toyota RAV4 are perennial best-sellers thanks in part to their all-around competencies and history of reliability. Still, automakers strive to make their small SUVs distinct. The 2019 Chevrolet Equinox stands out by bringing high-end luxury features and a couple of distinctive engines to this typically price-conscious class.Redesigned just last year, the Equinox is one of the newer entries in this segment. As such, all the latest safety features are available, from a surround-view parking camera to forward collision warning system that can identify pedestrians. Unlike some competitors, most of these features can only be ordered on the top trim level, but at least you can get them. Also available are a panoramic sunroof, a surround-view parking camera and ventilated front seats — rare options in this class.We also like that the Equinox offers two alternative powertrains if you aren't satisfied with the base turbocharged 1.5-liter engine. At one end of the spectrum is a fuel-efficient diesel that achieves 32 mpg in combined driving (the standard engine earns 28 mpg); at the other, a turbocharged 2.0-liter with an additional 80 horsepower. Be careful, however: Once you start checking the options boxes, the Equinox can be substantially more expensive than rival crossovers. An engine stop-start system that cannot be disabled and disappointing materials quality also might give prospective buyers pause.",
+        "rating": 7.4,
+            "pros": [
+                "Three engines to choose from, including a fuel-efficient diesel",
+                "Smooth ride over most road surfaces",
+                "Excellent handling characteristics"
+                    
+                    ],
+            "cons": [
+                "Smaller cargo area compared to most of its competitors",
+                "The base gasoline and diesel engines don't feel very lively",
+                "Interior materials quality is disappointing considering the price"
+                    ]
+        },
+    {
+        "make": "Dodge",
+        "model": "Durango",
+        "year": 2021,
+        "img": "https://media-service.carmax.com/img/vehicles/21878515/1_cleaned.jpg?width=800",
+        "description": "Dodge describes its Durango as an SUV 'for muscle car people with families.' This has to be one of the rare instances where we can actually agree with marketing hype. Like the Charger sport sedan and the Challenger muscle car, the Durango has a distinctive square-shouldered design that exudes bravado. It backs up its beefy looks with best-in-class towing, enviable acceleration, and ample room for up to seven passengers.For 2021, Dodge is updating the Durango lineup with an even more aggressive exterior design, a revised interior, additional technology features, and a new king of the Durango hill: the high-performance SRT Hellcat. Packing a 6.2-liter V8 borrowed from the Charger and Challenger Hellcats, the Durango SRT Hellcat develops a rather outrageous 710 horsepower and 645 lb-ft. Sounds appropriate for a muscle SUV, right? To learn more about the Durango, check out our Expert Rating's in-depth evaluation.",
+        "rating": 7.6,
+            "pros": [
+                "Large touchscreen tech interface is one of the best in class",
+                "Strong V8s provide exceptional towing ability",
+                "Real off-road capabilities with 4WD and low-range gearing "   
+                    ],
+            "cons": [
+                "Fuel economy is below average, especially with the V8s",
+                "Many of the latest advanced driver safety features don't come standard",
+                "Bigger and bulkier to drive than rival crossover SUVs"
+                    ]
+        },
+    {
+        "make": "Dodge",
+        "model": "Charger", 
+        "year": 2020,
+        "img": "https://media-service.carmax.com/img/vehicles/22105257/1_cleaned.jpg?width=800",
+        "description": "Automakers have largely given up on making large sedans, especially ones that deliver high levels of performance. But Dodge continues to keep the flame lit with its 2020 Charger. Combining the visceral excitement of a muscle car with the convenience of four doors, the Charger is in a class by itself.You can choose the V6-powered Charger in its base form or go all out with the 707-horsepower Hellcat and its supercharged V8, but there are plenty of happy middle-ground options as well. 2020 also brings some new Widebody variants that deliver greater visual swagger as well as improved cornering performance. This year also marks the Charger's 50th anniversary, which Dodge is celebrating with a 717-hp Daytona limited edition.Combined with some more extensive underbody changes last year, the Dodge Charger remains relevant even though it's been almost a decade since it was reintroduced. Certainly, there are more sensible and fuel-efficient choices for a roomy sedan. Toyota's Avalon, in particular, has become surprisingly sporty in recent years. But if you have an appetite for performance but want some sedan-based practicality, the Charger is the only way to go",
+        "rating": 7.4,
+            "pros": [
+                "Powerful V8 engines available, including the one for the 707-hp Hellcat",
+                "Trim levels and graphics packages allow for plenty of personalization",
+                "Infotainment is user-friendly and features a large touchscreen "   
+                    ],
+            "cons": [
+                "V8 engines can be thirsty when driven with enthusiasm",
+                "Sloping roofline impedes visibility and rear-seat access",
+                "In fit and finish, it lags some competitors"
+                    ]
+        },
+    {
+        "make": "Ford",
+        "model": "Bronco",
+        "year": 2021,
+        "img": "https://media-service.carmax.com/img/vehicles/21918420/1_cleaned.jpg?width=800",
+        "description": "Just like Hollywood, Ford has no qualms about remakes of past hits. Its latest is the 2021 Ford Bronco, which is both a revival of a famous nameplate and a highly capable off-road 4x4. After a 20-plus-year absence, this storied SUV has arrived at Ford dealerships boasting the style and spirit of the original 1966 Bronco. Its strong off-road capability, extensive customization options and modern technology features make it an intriguing rival to the Jeep Wrangler, Toyota 4Runner and Land Rover Defender.Available in two- and four-door versions, the 2021 Bronco is a body-on-frame vehicle like traditionally defined SUVs and most modern pickup trucks. (Just don't confuse it with the Bronco Sport. That's an entirely different, smaller and less capable vehicle that's based on the Ford Escape crossover SUV.) Power comes by way of a standard turbocharged four-cylinder engine or an optional and more powerful turbocharged V6. It also has cool touches such as an easily removable roof and doors and available rubberized floors with drain plugs — remove them and you literally see the ground underneath.Not all remakes are good, but Ford has created a blockbuster hit with the new Bronco. Getting your hands on one — and paying a fair price — might be difficult for this inaugural year, but overall this is a great pick for a SUV with loads of rugged character and rock-crawling capability.",
+        "rating": 7.9,
+            "pros": [
+                "Impressive all-terrain capability",
+                "Pleasant on-road steering and comfort",
+                "Helpful technology features for off-roading",
+                "Offers extraordinary level of customization  "  
+                    ],
+            "cons": [
+                "Lots of wind noise at highway speeds",
+                "Lackluster fuel economy"
+                    ]
+        },
+    {
+        "make": "Ford",
+        "model": "Edge",
+        "year": 2020,
+        "img": "https://media-service.carmax.com/img/vehicles/22406038/1_cleaned.jpg?width=800",
+        "description": "Buyers looking for a midsize SUV that's a little nicer than the mainstream choices without a budget-busting price will find plenty to like in the 2020 Ford Edge. It's tight and controlled on the road and drives much like a sedan. The quietness of its cabin and the expansive passenger and cargo space are impressive, and it has one of the roomiest interiors in its class.The Edge can be equipped at near-luxury levels, but even in base form it offers many advanced driver safety aids and a robust list of standard features. The standard turbocharged four-cylinder engine does a commendable job hauling the Edge's not-insignificant mass, and it even achieves respectable fuel economy while doing it.The Sync 3 infotainment system, which is standard across the lineup, is one of the better tech interfaces on the market, especially when you take advantage of its voice controls. For 2020, however, the Edge finally ditches the CD player. With Apple CarPlay and Android Auto included on all trims, most people won't miss it. But, please, a moment of silence.A few other desirable models offer an upscale approach to the crossover SUV formula. The GMC Acadia or the Kia Sorento might be a better pick for buyers seeking a third row, and the recently redesigned Hyundai Santa Fe is also a compelling choice. Still, the Edge's roomy interior, respectable fuel economy and enjoyable driving character make it a worthwhile addition to the test-drive list.",
+        "rating": 7.6,
+            "pros": [
+                "Plush, well-padded seats",
+                "Plenty of space for passengers and luggage",
+                "Fuel-efficient and performance-oriented engines",
+                "Quiet cabin at highway speeds"    
+                    ],
+            "cons": [
+                "Interior design and control layout are dated and bland",
+                "Outward visibility hampered by thick roof pillars and blind spots",
+                "Transmission responses are a little slow",
+                "Rides uncomfortably over small bumps and dips"
+                    ]
+        },
+    {
+        "make": "Ford",
+        "model": "Escape",
+        "year": 2021,
+        "img": "https://media-service.carmax.com/img/vehicles/22063139/1_cleaned.jpg?width=800",
+        "description": "The 2021 Ford Escape is a small SUV that competes against segment juggernauts including the Honda CR-V and Toyota RAV4. Redesigned just last year, this versatile crossover is roomier and more powerful than the previous Escape, while a range of new engines ensures there's a powertrain to fit any buyer's budget or needs. That is especially true of this year's model, which expands availability of the hybrid model to the SEL trim level.On the inside, the Escape offers Ford's newest Sync infotainment interface — one of the most user-friendly touchscreen systems in the class. There's also a long list of available safety features. Among these is adaptive cruise control, which can now recognize speed limit signs and adjust the Escape's speed accordingly. Despite some drawbacks, such as clunky transmission shifts and poor handling capabilities, the Escape is a strong competitor in one of the toughest segments on the market.",
+        "rating": 7.7,
+            "pros": [
+                "Roomy and comfortable seating",
+                "Smooth ride quality",
+                "Easy-to-use controls",
+                "Available hybrid powertrain that gets around 40 mpg"  
+                    ],
+            "cons": [
+                "Transmission's abrupt shifts",
+                "Lackluster handling"
+                    ]
+        },
+    {
+        "make": "Ford", 
+        "model": "Mustang",
+        "year": 2020,
+        "img": "https://media-service.carmax.com/img/vehicles/22081023/1_cleaned.jpg?width=800",
+        "description": "In some ways, the 2020 Ford Mustang is as just as you'd expect it to be. It has rear-wheel drive, an available 5.0-liter V8 under the hood, and all sorts of factory options to make it faster, louder and more distinctive. What you might not expect about the Mustang is the way Ford has committed to the standard four-cylinder engine. Base Mustangs used to be underpowered and unloved but not anymore.The EcoBoost Mustang comes with a turbocharged 2.3-liter four-cylinder engine that cranks out a stout 310 horsepower and 350 lb-ft of torque. Not content with letting only the V8 Mustang have all the fun, Ford has added the High Performance package to the EcoBoost model for 2020. The Focus Focus RS-derived engine delivers 332 hp, and its 350 lb-ft of torque is spread across a wider rpm range than in the standard engine. Ford also adds the larger brakes from the V8 Mustang to this package. Also new for 2020 is the Handling package (available only with the High Performance package), which adds Ford's impressive MagneRide suspension, uprated sway bars and super sticky Pirelli tires.Inside, the Mustang is much the same as it has been for the past few years. Highlights include a pleasing retro design fitted with the latest technology options such as Ford's Sync infotainment system and adaptive cruise control. Drawbacks are predictable, however. These include limited rear-seat and trunk space and a stiff ride when you opt for the high-performance suspension. Overall, though, we thoroughly enjoyed the 2020 Ford Mustang. It's modern, fast, easy to drive, and available with just enough options to make it your own.",
+        "rating": 7.9,
+            "pros": [
+                "Strong power from both the four-cylinder and V8 engines",
+                "Civilized ride quality and low noise levels",
+                "Cabin blends modern convenience with retro style    "
+                    ],
+            "cons": [
+                "Impractical back seat",
+                "Performance-package ride quality can be bouncy",
+                "Long, heavy doors and mediocre cabin access"
+                
+                    ]
+        },
+    {
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2019,
+        "img": "https://media-service.carmax.com/img/vehicles/21918174/1_cleaned.jpg?width=800",
+        "description": "Honestly, Honda could have sent its engineers on a yearlong vacation to Tahiti rather than task them with updating the 2019 Civic. We've been giving this generation Civic top marks since its debut three years ago, and there's nothing else out this year that's going to steal the car's title belt. But here we are anyway with an even better Civic.For starters, the 2019 Honda Civic gets a restyled front end. The new look is subtle and helps the car look a little sleeker and less imposing. Inside, you get an updated infotainment interface that brings with it the return of a volume knob for the Civic. This small addition addresses one of the biggest complaints we had with the Civic last year.What's more, all Civic trims also get additional features from the Honda Sensing bundle, which is now standard. It includes adaptive cruise control, forward collision mitigation, and lane departure warning with lane keeping assist. The Civic already had several advantages over competitors, and this addition of safety equipment is yet another.As always, there are a few notable competitors that you might want to also look at. These include the sporty Mazda 3, the weather-beating Subaru Impreza and the value-packed Kia Forte. But really, the 2019 Honda Civic is the one to beat. It has the most comprehensive combination of feature content, comfort and driving entertainment you'll find in a small sedan today.",
+        "rating": 8.4,
+            "pros": [
+                "Excellent fuel economy and performance from turbocharged engine",
+                "Ride quality expertly balances comfort and athleticism",
+                "Many standard advanced technology and safety features",
+                "Roomy cabin with high-quality materials"        
+                    ],
+            "cons": [
+                "Overly vigilant forward collision warning system is frustrating",
+                "Slow-responding adaptive cruise control system"
+                    ]
+        },
+    {
+        "make": "Honda", 
+        "model": "Passport",
+        "year": 2020,
+        "img": "https://media-service.carmax.com/img/vehicles/22331297/1_cleaned.jpg?width=800",
+        "description": "Automakers have been on a kick of resurrecting old nameplates, with recent releases including the Chevrolet Blazer, Lincoln Aviator and Toyota Supra. The appeal of these new vehicles varies, but the 2020 Honda Passport — part of the 2019 third generation that brought back the Passport name last seen in 2002 — is one of the finest midsize SUVs on the market.The Passport, essentially a Honda Pilot minus a third row, offers far more passenger and cargo space than the CR-V and easier maneuverability than the Pilot. Headroom and legroom are abundant all around. And with more than 41 cubic feet of storage behind the second row, the Passport trounces most rivals when it comes time to carry large objects. It also offers comfortable seats, a smooth ride, upscale cabin materials, and a powerful and fuel-efficient V6 engine.There are a few minor drawbacks — including overactive driving aids — but these are minor quibbles that do little to detract from the Passport's overall excellence. If you're shopping for a comfortable and roomy midsize crossover, this reborn Honda is pretty much the best one to get.",
+        "rating": 8.1,
+            "pros": [
+                "Spacious interior with lots of passenger space",
+                "Comfortable front seats",
+                "Many clever storage compartments"      
+                    ],
+            "cons": [
+                "Adaptive cruise control is only available over 20 mph",
+                "Driver's seat might be positioned a little too high for some people"
+                    ]
+        },
+    {
+        "make": "Hyundai",
+        "model": "Accent",
+        "year": 2020,
+        "img": "https://media-service.carmax.com/img/vehicles/21672418/1_cleaned.jpg?width=800",
+        "description": "Finding a roomy, safe and exceptionally fuel-efficient small sedan just got easier with the 2020 Hyundai Accent. Freshly overhauled two years ago, the Accent delivers comfort and value at a price that would make a car shopper smile. Its econo-car styling actually hides a car that drives sportier than it looks, thanks to a responsive engine and well-calibrated suspension.We're not talking autobahn-ready performance here, but the Accent is surprisingly nimble, and it makes for a sensible and stylish subcompact choice.There's a fuel-efficient twist for 2020, with a new four-cylinder engine and continuously variable automatic transmission combination rated to return 36 mpg combined. Based on our testing, that's not only a realistic number but also perhaps a bit conservative. After hundreds of miles, we found our test car exceeded its EPA ratings by several mpg.The downside? This new engine makes even less power than its anemic predecessor. That engine at least offered quick pedal response and an available manual transmission that somewhat offset its weak power. With just 120 horsepower, this new engine isn't likely to be much more inspiring. That said, it's also still available with a six-speed manual transmission.Overall, the Accent is a handsome car that will endure the daily grind with minimal fuss. We think drivers with longer commutes won't regret choosing this Accent over a larger, more expensive car. It's a solid pick for its satisfying combination of performance, utility, comfort and style.",
+        "rating": 7.2,
+            "pros": [
+                "Comfortable ride and impressively quiet cabin",
+                "Spacious interior with solid, rattle-free build quality",
+                "Long warranty coverage provides peace of mind",
+                "Excellent real-world fuel econom"
+                    ],
+            "cons": [
+                "Lacks onboard navigation but connects to smartphone nav apps",
+                "Cloth seats are uncomfortable and trap heat",
+                "USB port struggles to charge a phone",
+                "Enhanced safety aids only available on top trim level"
+                    ]
+        },
+    {
+        "make": "Hyundai",
+        "model": "Sonata",
+        "year": "2021",
+        "img": "https://media-service.carmax.com/img/vehicles/21393495/1_cleaned.jpg?width=800",
+        "description": "The 2021 Hyundai Sonata is a midsize sedan that competes against all-stars such as the Honda Accord and Toyota Camry and newcomers such as the Kia K5 (which is mechanically related to the Sonata). The Sonata does all the typical sedan things well — the cabin is spacious, trunk space is massive, and it's quicker than you might expect. But it's the abundant tech features, such as the easy-to-use infotainment system and available high-res surround-view parking camera, that truly impress.The big news for 2021 is a new range-topping performance trim. The Hyundai Sonata N Line is oriented toward buyers who want a family-friendly sedan with an edge. Power for the N Line comes from an all-new turbocharged 2.5-liter four-cylinder engine that cranks out 290 horsepower and 311 lb-ft of torque. This is one of the more powerful upgrade engines you'll find in a midsize sedan. It also comes with slightly sharper handling, a special black-painted grille, dual exhaust pipes, and sport front seats with red accent stitching.",
+        "rating": 8.0,
+            "pros": [
+                "Lots of helpful standard technology features",
+                "Big trunk and lots of interior storage space",
+                "Good value for the money",
+                "Enjoyable performance from the Sonata N Line"
+                    ],
+            "cons": [
+                "Not as comfortable as some other top sedans",
+                "Ho-hum interior quality"
+                    ]
+        },
+    {
+        "make": "Jeep", 
+        "model": "Cherokee",
+        "year": 2021,
+        "img": "https://media-service.carmax.com/img/vehicles/21493341/1_cleaned.jpg?width=800",
+        "description": "The Jeep Cherokee is a charming small SUV. Fitted with either one of its optional engines — a turbocharged four-cylinder or a V6 — the Cherokee is more fun to drive than you might expect. And, as with its Grand Cherokee sibling, its off-road ability and maximum towing capacity are both excellent for the class.Rival SUVs you might want to cross-shop include the Honda CR-V, Mazda CX-5, Subaru Forester and Toyota RAV4. The Cherokee is a solid option here, with a smooth ride that is good enough for the average commuter, plus rugged chops to satisfy adventurous drivers. That's a tough line to straddle, but the Cherokee pulls it off well enough to earn a decent spot in our rankings. Check out our Expert Rating for our in-depth take on the 2021 Cherokee",
+        "rating": 7.8,
+            "pros": [
+                "Available V6 and turbocharged engines provide smooth, assertive power",
+                "Suspension smooths out rough surfaces",
+                "User-friendly 8.4-inch touchscreen on many models",
+                "Trailhawk offers excellent off-road capability for a small SUV   " 
+                    ],
+            "cons": [
+                "Sluggish acceleration with the base engine",
+                "Less cargo capacity than other small crossovers"
+                    ]
+        },
+    {
+        "make": "Jeep",
+        "model": "Grand Cherokee",
+        "year": 2019,
+        "img": "https://media-service.carmax.com/img/vehicles/21964556/1_cleaned.jpg?width=800",
+        "description": "The Spanish explorer Juan Ponce de León never found the mythical fountain of youth. But he would have been impressed with the 2019 Jeep Grand Cherokee. Although it's part of the current generation that debuted way back in 2011, this year's Grand Cherokee is still one of the better picks for a five-passenger midsize SUV.A big reason is model diversity. It is available in seven trim levels and offers a myriad of options available at each trim level. You want a basic but still relatively well-equipped version of the Grand Cherokee for a reasonable price? Jeep's got you covered. Or how about a fully loaded luxury family hauler? No problem there either.As expected, the Grand Cherokee is also one of the best off-roading SUVs around. You can equip it with one of the off-road suspension packages or just upgrade to the Trailhawk version. If on-road performance is your thing, Jeep has the brutish SRT and 707-horsepower Trackhawk variants on tap. What connects all these varying Grand Cherokee models is impressive interior quality and solid foundation of utility. So whether you're looking to go off the beaten path, burn up all four tires on a drag strip, or just take the kids to school in comfort, there's probably a Jeep Grand Cherokee for you.",
+        "rating": 7.4,
+            "pros": [
+                "Plush interior with plentiful luxury and technology",
+                "Enough off-road ability to conquer practically any trail",
+                "Available V8 engines offer substantial power",
+                "Impressive tow ratings for the class" 
+                    ],
+            "cons": [
+                "Firm ride quality may disappoint, even with air suspension",
+                "Underwhelming acceleration with base V6",
+                "Modest quality of cabin materials can be hard to justify"
+                    ]
+        },
+    {
+        "make": "Kia",
+        "model": "Forte",
+        "year": 2019,
+        "img": "https://media-service.carmax.com/img/vehicles/22084190/1_cleaned.jpg?width=800",
+        "description": "The Forte enters its third generation with new styling cues. The long hood and fastback-style sloping roofline mimic those from Kia's top Stinger sport sedan. Power hasn't changed; the Forte still uses a 2.0-liter four-cylinder rated at 147 horsepower, but a new continuously variable automatic transmission promises improved fuel economy. Last year's sporty Forte SX, with its turbocharged 201-hp engine, has been discontinued, but a similarly themed Forte GT is set to arrive for the 2020 model year.The new-generation Forte also retains the model's main draws: a wealth of desirable standard features starting from the base trim level, including dual-zone air conditioning, an 8-inch touchscreen tech interface, Apple CarPlay and Android Auto smartphone integration, and driver safety aids including automatic emergency braking and lane keeping assist.That's just the start, too. The top EX trim offers premium touches such as faux leather upholstery, heated and ventilated front seats, and a hands-free trunk. All Fortes also have 15.3 cubic feet of cargo space, a sizable amount for any compact car.The new Forte isn't without compromise, however. Acceleration is adequate, but we wouldn't call it impressive. Improved handling characteristics come at the expense of a stiffer ride, and overall the Forte's performance chops aren't quite as polished as those of its Honda and Mazda rivals. But for many drivers, the differences will be hard to spot. Overall, the Forte more than satisfies with its mix of great features, attractive style and appealing price.",
+        "rating": 7.9,
+            "pros": [
+                "Plenty of features for the money",
+                "Strong fuel economy estimates",
+                "Generous warranty coverage",
+                "Easy-to-use technology interface"
+                    ],
+            "cons": [
+                "Stiff ride quality",
+                "Back seat isn't quite as roomy as those of some rivals",
+                "Not much fun to drive on winding roads"
+                    ]
+        },
+    {
+        "make": "Kia", 
+        "model": "Sorento",
+        "year": 2021,
+        "img": "https://media-service.carmax.com/img/vehicles/22489969/1_cleaned.jpg?width=800",
+        "description": "Kia's Sorento has always tried to go above and beyond as one of the few small crossover SUVs with a third row of seats — even if the back row was pretty cramped. As a result, the Sorento has long led a fairly compromised life straddling the two- and three-row SUV segments. But Kia is determined to make the small three-row SUV formula work. The redesigned 2021 Kia Sorento has more interior room and all-new powertrain choices, including a traditional hybrid and a plug-in.In short, we're big fans of the new Sorento. It delivers everything you'd want of a modern SUV — comfortable seats, plenty of cargo space, and sprightly acceleration from the optional turbocharged motor. And in a welcome change of pace, this newest version has enough room in the third row for adults. It's significantly better than either the Volkswagen Tiguan or Mitsubishi Outlander — the only other compact SUVs with three rows of seating. Even if you discount the versatility offered by the third row, the Sorento is quite competitive against other compact SUVs, though it does cost quite a bit more than these two-row rivals.",
+        "rating": 8.2,
+            "pros": [
+                "Impressive number of standard and optional features",
+                "Lots of second- and third-row legroom for the class",
+                "Sharp-looking and easy-to-use infotainment system"
+                    ],
+            "cons": [
+                "Not so compact anymore",
+                "Significant price increase over 2020 model"
+                    ]
+        },
+    {
+        "make": "Mazda",
+        "model": "CX-5",
+        "year": 2021,
+        "img": "https://media-service.carmax.com/img/vehicles/21731343/1_cleaned.jpg?width=800",
+        "description": "The elevated ride height and superior passenger and cargo room of small SUVs make them far more sensible than the typical small sedan. The downside is that sensible isn't normally sexy, but that's where the 2021 Mazda CX-5 comes in. This SUV boasts sleek styling and impressive handling abilities to match. It also has a top-notch interior and a strong optional turbocharged engine that wouldn't seem out of place in a BMW. These traits have helped the CX-5 earn a place near the top of our rankings of the best small SUVs.The CX-5 receives a few notable upgrades for 2021. The central display screen is larger than last year's and is outfitted with Mazda's newest infotainment interface. It loses touchscreen functionality, but the increased width makes the layout look less cluttered than before. There's also a new Carbon Edition trim that's available with or without the turbocharged engine. If you want the extra thrust but don't need the luxury features that come in the pricier trims, the Carbon Edition is the least expensive way to get the upgraded engine. So is the CX-5 the best small SUV for you? Check out our Expert Rating to read more of our in-depth evaluation of this year's CX-5.",
+        "rating": 8.1,
+            "pros": [
+                "Keen handling and steering make the CX-5 enjoyable to drive",
+                "Attractive and upscale cabin for a premium ownership experience",
+                "Optional turbocharged engine provides plenty of power",
+                "Quiet at highway speeds"
+                    ],
+            "cons": [
+                "Base engine's lackluster acceleration",
+                "Ride is a little firm for the class",
+                "Less rear legroom and cargo room than most competitors"
+                    ]
+        }
+    ]

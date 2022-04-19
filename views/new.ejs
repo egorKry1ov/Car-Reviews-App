@@ -1,0 +1,25 @@
+<h1>New Vehicle</h1>
+<form action="/cars" method="POST">
+
+    <div class="mb-3">
+        <label class="form-label" for="make">Make:</label>
+        <input class="form-control" type="text" name="make"/>
+        <label class="form-label" for="model">Model:</label>
+        <input class="form-control" type="text" name="model"/>
+        <label class="form-label" for="year">Year:</label>
+        <input class="form-control" type="text" name="year"/>
+        <label class="form-label" for="img">Img Url:</label>
+        <input class="form-control" type="text" name="img"/>
+        <label class="form-label" for="description">Description:</label>
+        <textarea class="form-control" name="description"></textarea>
+        <label class="form-label" for="rating">Rating:</label>
+        <input class="form-control" type="text" name="rating"/>
+        <label class="form-label" for="pros">Pros:</label>
+        <input class="form-control" type="text" name="pros"/>
+        <label class="form-label" for="cons">Cons:</label>
+        <input class="form-control" type="text" name="cons"/>
+
+    </div>
+    <input type="submit" class="btn btn-primary"/> 
+    <a href="/cars" class="btn btn-danger">Cancel</a>
+</form>
