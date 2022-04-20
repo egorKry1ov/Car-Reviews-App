@@ -16,7 +16,10 @@
                 "Not much room to stretch out inside",
                 "Limited cargo space in a tiny trunk",
                 "Cabin gets fairly loud at highway speeds even with the top up"
-            ]
+            ],
+        "url1": "https://media.ed.edmunds-media.com/mazda/mx-5-miata/2018/oem/2018_mazda_mx-5-miata_convertible_club_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/mazda/mx-5-miata/2018/oem/2018_mazda_mx-5-miata_convertible_club_fq_oem_2_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/mazda/mx-5-miata/2018/oem/2018_mazda_mx-5-miata_convertible_club_rq_oem_1_1280x855.jpg"
         },
     {
         "make": "Honda",
@@ -34,7 +37,10 @@
             "cons": [
                 "Not as quiet as some rival sedans",
                 "Low seating position slightly hampers entry and exit"
-                    ]
+                    ],
+        "url1": "https://lp-auto-assets.s3.us-east-1.amazonaws.com/20/Honda/accord/T1/header.jpg",
+        "url2": "https://media.ed.edmunds-media.com/honda/accord/2018/oem/2018_honda_accord_sedan_sport_fq_oem_10_815x543.jpg",
+        "url3": "https://media.ed.edmunds-media.com/honda/accord/2018/oem/2018_honda_accord_sedan_sport_fq_oem_15_1280x855.jpg"
         }
         ,
     {
@@ -54,7 +60,10 @@
                 "Standard tech interface more frustrating to use than some rivals' systems",
                 "Underwhelming acceleration from base engine",
                 "Real-world fuel economy doesn't always match EPA estimates"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/ford/fusion/2019/oem/2019_ford_fusion_sedan_titanium_fq_oem_1_815.jpg",
+        "url2": "https://media.ed.edmunds-media.com/ford/fusion/2019/oem/2019_ford_fusion_sedan_titanium_fq_oem_1_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/ford/fusion/2019/oem/2019_ford_fusion_sedan_titanium_edetail_oem_1_1280x855.jpg"
         }
 ,
     {
@@ -74,7 +83,10 @@
                 "Steering lacks road feel and can be slow to respond",
                 "Uninspiring interior materials and disappointing fit and finish",
                 "Base S trim offers less equipment than most modern sedans"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/nissan/altima/2020/oem/2020_nissan_altima_sedan_25-platinum_fq_oem_1_815.jpg",
+        "url2": "https://media.ed.edmunds-media.com/nissan/altima/2020/oem/2020_nissan_altima_sedan_25-platinum_rq_oem_2_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/nissan/altima/2020/oem/2020_nissan_altima_sedan_25-platinum_f_oem_1_1280x855.jpg"
         },
     {
         "make": "Toyota",
@@ -92,7 +104,11 @@
                 "Lackluster power from base powertrain, no other engines available",
                 "Uncomfortable front passenger seat",
                 "Vague steering means you'll sometimes misjudge your inputs"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/toyota/rav4/2019/oem/2019_toyota_rav4_4dr-suv_adventure_fq_oem_10_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/toyota/rav4/2019/oem/2019_toyota_rav4_4dr-suv_adventure_fq_oem_11_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/toyota/rav4/2019/oem/2019_toyota_rav4_4dr-suv_adventure_fq_oem_2_1280x855.jpg"
+
         },
     {
         "make": "Acura",
@@ -111,7 +127,10 @@
                 "Cabin looks and feels less luxurious than those of some rivals",
                 "Adaptive cruise control can be slow to respond and abrupt when it does",
                 "Two-screen infotainment system is nonintuitive and difficult to control"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/acura/mdx/2019/oem/2019_acura_mdx_4dr-suv_sport-hybrid-sh-awd-wadvance-package_fq_oem_2_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/acura/mdx/2019/oem/2019_acura_mdx_4dr-suv_sport-hybrid-sh-awd-wadvance-package_fq_oem_3_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/acura/mdx/2019/oem/2019_acura_mdx_4dr-suv_sport-hybrid-sh-awd-wadvance-package_fq_oem_4_1280x855.jpg"                    
         },
     {
         "make": "Acura",
@@ -130,7 +149,10 @@
                 "Overly stiff ride",
                 "Many tech features are outdated",
                 "Leisurely acceleration, especially for the class"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/acura/ilx/2019/oem/2019_acura_ilx_sedan_technology-and-a-spec-packages_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/acura/ilx/2019/oem/2019_acura_ilx_sedan_technology-and-a-spec-packages_fq_oem_10_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/acura/ilx/2019/oem/2019_acura_ilx_sedan_technology-and-a-spec-packages_fq_oem_2_1280x855.jpg"
         },
     {
         "make": "Audi",
@@ -150,8 +172,10 @@
                 "Infotainment interface can be tough to learn",
                 "Powertrain is a little unrefined",
                 "Ride is too floaty at high speeds and bumpy around town"
-                
-                    ]
+                    ],
+                    "url1": "https://media.ed.edmunds-media.com/audi/a8/2019/oem/2019_audi_a8_sedan_l-30-tfsi-quattro_fq_oem_10_1280x855.jpg",
+                    "url2": "https://media.ed.edmunds-media.com/audi/a8/2019/oem/2019_audi_a8_sedan_l-30-tfsi-quattro_fq_oem_4_1280x855.jpg",
+                    "url3": "https://media.ed.edmunds-media.com/audi/a8/2019/oem/2019_audi_a8_sedan_l-30-tfsi-quattro_s_oem_2_1280x855.jpg"
         },
     {
         "make": "Chevy",
@@ -172,7 +196,10 @@
                 "Maximum cargo capacity is lower than that of several rivals",
                 "Limited availability of advanced driver safety aids"
                 
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/chevrolet/blazer/2019/oem/2019_chevrolet_blazer_4dr-suv_premier_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/chevrolet/blazer/2019/oem/2019_chevrolet_blazer_4dr-suv_premier_rq_oem_1_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/chevrolet/blazer/2019/oem/2019_chevrolet_blazer_4dr-suv_premier_f_oem_1_1280x855.jpg"
         },
     {
         "make": "Chevy",
@@ -192,8 +219,10 @@
                 "Tiny back seat is essentially useless",
                 "Limited trunk space with small opening",
                 "Some controls are awkward to use"
-                
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/chevrolet/camaro/2020/oem/2020_chevrolet_camaro_coupe_3lt_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/chevrolet/camaro/2020/oem/2020_chevrolet_camaro_coupe_lt1_fq_oem_1_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/chevrolet/camaro/2020/oem/2020_chevrolet_camaro_coupe_zl1_fq_oem_1_1280x855.jpg"
         },
     {
         "make": "Chevy",
@@ -212,7 +241,10 @@
                 "Smaller cargo area compared to most of its competitors",
                 "The base gasoline and diesel engines don't feel very lively",
                 "Interior materials quality is disappointing considering the price"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/chevrolet/equinox/2018/oem/2018_chevrolet_equinox_4dr-suv_lt_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/chevrolet/equinox/2018/oem/2018_chevrolet_equinox_4dr-suv_lt_fq_oem_2_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/chevrolet/equinox/2018/oem/2018_chevrolet_equinox_4dr-suv_lt_rq_oem_1_1280x855.jpg"
         },
     {
         "make": "Dodge",
@@ -230,7 +262,10 @@
                 "Fuel economy is below average, especially with the V8s",
                 "Many of the latest advanced driver safety features don't come standard",
                 "Bigger and bulkier to drive than rival crossover SUVs"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/dodge/durango/2021/oem/2021_dodge_durango_4dr-suv_srt-hellcat_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/dodge/durango/2021/oem/2021_dodge_durango_4dr-suv_srt-hellcat_fq_oem_3_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/dodge/durango/2021/oem/2021_dodge_durango_4dr-suv_srt-hellcat_rq_oem_1_1280x855.jpg"
         },
     {
         "make": "Dodge",
@@ -248,7 +283,10 @@
                 "V8 engines can be thirsty when driven with enthusiasm",
                 "Sloping roofline impedes visibility and rear-seat access",
                 "In fit and finish, it lags some competitors"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/dodge/charger/2020/oem/2020_dodge_charger_sedan_gt_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/dodge/charger/2020/oem/2020_dodge_charger_sedan_gt_rq_oem_1_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/dodge/charger/2020/oem/2020_dodge_charger_sedan_scat-pack-widebody_fq_oem_3_1280x855.jpg"
         },
     {
         "make": "Ford",
@@ -266,7 +304,10 @@
             "cons": [
                 "Lots of wind noise at highway speeds",
                 "Lackluster fuel economy"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/ford/bronco/2021/oem/2021_ford_bronco_4dr-suv_badlands_fq_oem_5_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/ford/bronco/2021/oem/2021_ford_bronco_4dr-suv_badlands_rq_oem_2_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/ford/bronco/2021/oem/2021_ford_bronco_4dr-suv_badlands_edetail_oem_1_1280x855.jpg"
         },
     {
         "make": "Ford",
@@ -286,7 +327,10 @@
                 "Outward visibility hampered by thick roof pillars and blind spots",
                 "Transmission responses are a little slow",
                 "Rides uncomfortably over small bumps and dips"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/ford/edge/2019/oem/2019_ford_edge_4dr-suv_titanium_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/ford/edge/2019/oem/2019_ford_edge_4dr-suv_titanium_fq_oem_3_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/ford/edge/2019/oem/2019_ford_edge_4dr-suv_titanium_rq_oem_1_1280x855.jpg"
         },
     {
         "make": "Ford",
@@ -304,7 +348,10 @@
             "cons": [
                 "Transmission's abrupt shifts",
                 "Lackluster handling"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/ford/escape/2021/oem/2021_ford_escape_4dr-suv_sel_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/ford/escape/2021/oem/2021_ford_escape_4dr-suv_sel_rq_oem_1_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/ford/escape/2021/oem/2021_ford_escape_4dr-suv_sel_rq_oem_2_1280x855.jpg"
         },
     {
         "make": "Ford", 
@@ -322,8 +369,10 @@
                 "Impractical back seat",
                 "Performance-package ride quality can be bouncy",
                 "Long, heavy doors and mediocre cabin access"
-                
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/ford/mustang/2020/oem/2020_ford_mustang_coupe_bullitt_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/ford/mustang/2020/oem/2020_ford_mustang_coupe_bullitt_fq_oem_2_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/ford/mustang/2020/oem/2020_ford_mustang_coupe_bullitt_rq_oem_1_1280x855.jpg"
         },
     {
         "make": "Honda",
@@ -341,7 +390,10 @@
             "cons": [
                 "Overly vigilant forward collision warning system is frustrating",
                 "Slow-responding adaptive cruise control system"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/honda/civic/2019/oem/2019_honda_civic_sedan_si_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/honda/civic/2019/oem/2019_honda_civic_sedan_si_fq_oem_10_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/honda/civic/2019/oem/2019_honda_civic_sedan_si_fq_oem_4_1280x855.jpg"
         },
     {
         "make": "Honda", 
@@ -358,7 +410,10 @@
             "cons": [
                 "Adaptive cruise control is only available over 20 mph",
                 "Driver's seat might be positioned a little too high for some people"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/honda/passport/2019/oem/2019_honda_passport_4dr-suv_elite_fq_oem_10_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/honda/passport/2019/oem/2019_honda_passport_4dr-suv_elite_fq_oem_12_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/honda/passport/2019/oem/2019_honda_passport_4dr-suv_elite_rq_oem_1_1280x855.jpg"
         },
     {
         "make": "Hyundai",
@@ -378,7 +433,10 @@
                 "Cloth seats are uncomfortable and trap heat",
                 "USB port struggles to charge a phone",
                 "Enhanced safety aids only available on top trim level"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/hyundai/accent/2018/oem/2018_hyundai_accent_sedan_limited_fq_oem_13_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/hyundai/accent/2018/oem/2018_hyundai_accent_sedan_limited_fq_oem_15_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/hyundai/accent/2018/oem/2018_hyundai_accent_sedan_limited_fq_oem_16_1280x855.jpg"
         },
     {
         "make": "Hyundai",
@@ -396,7 +454,10 @@
             "cons": [
                 "Not as comfortable as some other top sedans",
                 "Ho-hum interior quality"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/hyundai/sonata/2021/oem/2021_hyundai_sonata_sedan_limited_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/hyundai/sonata/2021/oem/2021_hyundai_sonata_sedan_limited_fq_oem_10_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/hyundai/sonata/2021/oem/2021_hyundai_sonata_sedan_limited_fq_oem_2_1280x855.jpg"
         },
     {
         "make": "Jeep", 
@@ -414,7 +475,10 @@
             "cons": [
                 "Sluggish acceleration with the base engine",
                 "Less cargo capacity than other small crossovers"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/jeep/cherokee/2021/oem/2021_jeep_cherokee_4dr-suv_80th-anniversary-edition_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/jeep/cherokee/2021/oem/2021_jeep_cherokee_4dr-suv_latitude-lux_fq_oem_1_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/jeep/cherokee/2019/oem/2019_jeep_cherokee_4dr-suv_limited_rq_oem_1_1280x855.jpg"
         },
     {
         "make": "Jeep",
@@ -433,7 +497,10 @@
                 "Firm ride quality may disappoint, even with air suspension",
                 "Underwhelming acceleration with base V6",
                 "Modest quality of cabin materials can be hard to justify"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/jeep/grand-cherokee/2019/oem/2019_jeep_grand-cherokee_4dr-suv_limited-x_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/jeep/grand-cherokee/2019/oem/2019_jeep_grand-cherokee_4dr-suv_limited-x_fq_oem_2_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/jeep/grand-cherokee/2019/oem/2019_jeep_grand-cherokee_4dr-suv_summit_fq_oem_1_1280x855.jpg"
         },
     {
         "make": "Kia",
@@ -452,7 +519,10 @@
                 "Stiff ride quality",
                 "Back seat isn't quite as roomy as those of some rivals",
                 "Not much fun to drive on winding roads"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/kia/forte/2019/oem/2019_kia_forte_sedan_ex_fq_oem_12_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/kia/forte/2019/oem/2019_kia_forte_sedan_ex_rq_oem_4_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/kia/forte/2019/oem/2019_kia_forte_sedan_ex_rq_oem_2_1280x855.jpg"
         },
     {
         "make": "Kia", 
@@ -469,7 +539,10 @@
             "cons": [
                 "Not so compact anymore",
                 "Significant price increase over 2020 model"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/kia/sorento/2021/oem/2021_kia_sorento_4dr-suv_sx_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/kia/sorento/2021/oem/2021_kia_sorento_4dr-suv_sx_fq_oem_2_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/kia/sorento/2021/oem/2021_kia_sorento_4dr-suv_sx_rbdg_oem_1_1280x855.jpg"
         },
     {
         "make": "Mazda",
@@ -488,6 +561,9 @@
                 "Base engine's lackluster acceleration",
                 "Ride is a little firm for the class",
                 "Less rear legroom and cargo room than most competitors"
-                    ]
+                    ],
+        "url1": "https://media.ed.edmunds-media.com/mazda/cx-5/2021/oem/2021_mazda_cx-5_4dr-suv_carbon-edition-turbo_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/mazda/cx-5/2021/oem/2021_mazda_cx-5_4dr-suv_carbon-edition-turbo_rq_oem_1_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/mazda/cx-5/2021/oem/2021_mazda_cx-5_4dr-suv_signature_d_oem_1_1280x855.jpg"  
         }
     ]

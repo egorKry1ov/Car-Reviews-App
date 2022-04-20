@@ -15,6 +15,9 @@ const CarSchema = new mongoose.Schema({
     rating: Number,
     pros: Array,
     cons: Array,
+    url1: String,
+    url2: String,
+    url3: String
 
 })
 

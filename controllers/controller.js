@@ -37,12 +37,5 @@ router.get('/:id', (req, res) => {
     })
 })
 
-router.get('/rating/:id', (req, res) => {
-    Car.findById(req.params.id)
-    .then(cars => {
-        res.render('rating', { data: cars })
-    })
-})
-
 
 module.exports = router

@@ -1,5 +1,5 @@
 
-.container{
+.box_container{
     display: grid;
     justify-content: center;
     grid-template-columns: repeat(auto-fit, minmax(250px, max-content));
@@ -21,7 +21,7 @@
     font-weight: 500;
     font-size: 16px;
     padding-left: 10px;
-    text-align: center;
+   
 }
 
 .text-block{
@@ -44,4 +44,71 @@
 .main-text {
     margin-bottom: 15px;
 }
+
+
+.carousel-item {
+    height: 35rem;
+    background-color: rgb(10, 10, 10);
+    color:white;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    position: absolute;
+    bottom: 0;
+    left: 0px;
+    right: 0px;
+    padding-bottom: 50px;
+}
+
+.overlay-image{
+    position: absolute;
+    bottom: 0;
+    left: 0px;
+    right: 0px;
+    top: 0;
+    opacity: .5;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.menu-bar{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu-bar .dropdown {
+    float: left;
+    width: 200px;
+    height: 40px;
+    background-color: darkgray;
+    opacity: .8;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.menu-bar .dropdown .menu-link {
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+.menu-bar .dropdown .menu-link:hover{
+    background-color: lightcoral;
+}
+
+.menu-bar .dropdown .menu-bar .dropdown{
+    display: none;
+}
+
+.menu-bar .dropdown:hover .menu-bar .dropdown{
+    display:block
+}
+
 
