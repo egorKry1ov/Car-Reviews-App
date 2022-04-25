@@ -1,0 +1,25 @@
+
+<div class="box_container">
+    <% data.forEach(item => { %>
+        <div class="cards">
+            <img src='<%=item.img%>' height='200' />
+            <a href="/news/<%=item.id%>"></a>
+            <div class="font main-text">
+                <div style="font-size: 12px;">
+                <%=item.heading%> 
+                </div>
+                <div><%=item.date%></div>
+            </div>
+            <div class="cardButtonParent">
+                <a  class="btn btn-secondary" href="/news/<%=item.id%>">Description</a> 
+                <a href="/news/<%=item.id%>" class="btn btn-secondary">Edit</a>
+                <form action="/news/<%=item.id%>?_method=DELETE" method="POST">
+                    <input class="btn btn-dark"
+                        type="submit"
+                        value="Delete"
+                    />
+                </form>
+            </div>
+        </div>
+    <% }) %>
+</div>

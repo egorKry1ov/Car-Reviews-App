@@ -1,0 +1,79 @@
+
+<div id="myCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
+    <ol class="carousel-indicators">
+        <li data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" ></li>
+        <li data-bs-target="#myCarousel" data-bs-slide-to="1"></li>
+        <li data-bs-target="#myCarousel" data-bs-slide-to="2"></li>
+    </ol>
+
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+        <div class="overlay-image" style="background-image:url(<%=data.url1%>)"></div>
+            <div class="container">
+                <h1><%=data.year%> 
+                    <%=data.make%> 
+                    <%=data.model%> </h1>
+                <p><%=data.description%></p>
+                <a href="/trucks" class="btn btn-lg btn-primary">
+                    Go Back
+                </a>
+            </div>
+        </div>
+        <div class="carousel-item">
+        <div class="overlay-image" style="background-image:url(<%=data.url2%>)"></div>
+            <div class="container">
+                <h1><%=data.year%> 
+                    <%=data.make%> 
+                    <%=data.model%></h1>
+                <p><%=data.description%></p>
+                <a href="/trucks" class="btn btn-lg btn-primary">
+                    Go Back
+                </a>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <div class="overlay-image" style="background-image:url(<%=data.url3%>)"></div>
+                <div class="container">
+                    <h1><%=data.year%> 
+                        <%=data.make%> 
+                        <%=data.model%></h1>
+                    <p><%=data.description%></p>
+                    <a href="/trucks" class="btn btn-lg btn-primary">
+                        Go Back
+                    </a>
+                </div>
+            </div>
+    </div>
+    <a href="#myCarousel" class="carousel-control-prev" role="button" data-bs-slide="prev">
+        <span class="sr-only"></span>
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    </a>
+    <a href="#myCarousel" class="carousel-control-next" role="button" data-bs-slide="next">
+        <span class="sr-only"></span>
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    </a>
+</div>  
+<div>
+</div>
+<div class="form-group">
+    <h3 class="font heading">Pros:</h3>
+    <% data.pros.forEach(item => { %>
+        <div>
+            <ul class="list-group">
+                <li class="list-group-item font"><%=item %></li>
+            </ul>
+
+        </div>
+    <% }) %>
+</div>
+<div class="form-group">
+    <h3 class="font heading">Cons:</h3>
+    <% data.cons.forEach(item => { %>
+        <div>
+            <ul class="list-group">
+                <li class="list-group-item font"><%=item %></li>
+            </ul>
+
+        </div>
+    <% }) %>
+</div>

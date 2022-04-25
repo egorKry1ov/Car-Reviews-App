@@ -1,0 +1,31 @@
+
+<div class="box_container">
+    <% data.forEach(item => { %>
+        <div class="cards">
+            <img src='<%=item.img%>' height='200' />
+            <div class='text-block'>
+                <a class="btn btn-danger" href="/trucks">
+                <%=item.rating%>
+                </a>
+            </div>
+            <div class="font main-text">
+                <div style="text-align: center;">
+                <%=item.year%> 
+                <%=item.make%> 
+                <%=item.model%>
+                </div>
+            </div>
+            <div class="cardButtonParent">
+                <a  class="btn btn-secondary" href="/trucks/<%=item.id%>">Description</a> 
+                <a href="/trucks/<%=item.id%>" class="btn btn-secondary">Edit</a>
+                <form action="/trucks/<%=item.id%>?_method=DELETE" method="POST">
+                    <input class="btn btn-dark"
+                        type="submit"
+                        value="Delete"
+                    />
+                </form>
+            </div>
+        </div>
+    <% }) %>
+
+</div>

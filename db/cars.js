@@ -1,4 +1,4 @@
-const { db } = require('../models/Car')
+
 const Car = require('../models/Car')
 const cars = require('./cars.json')
 

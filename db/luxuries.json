@@ -1,0 +1,284 @@
+[
+{
+    "make": "Alfa Romeo",
+    "model": "Giulia",
+    "year": 2021,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOQRifTBEG2XTmHSBOjMYPOCAQjnP3XaR4A&usqp=CAU",
+    "description": "You have plenty of good choices for a small luxury sedan. But when you really get down to it, these well-intentioned four-doors can seem a bit stale. Handsome but derivative styling? Check. Well-appointed but soulless interior? Yep. Sanitized driving experience? Drive one and you've driven them all. But there is one sedan that stands out: the 2021 Alfa Romeo Giulia.Partially by virtue of Alfa's small vehicle lineup, the Giulia's interior looks like nothing else on the market (well, except the Stelvio SUV with which it shares a common platform). Equal parts high-tech and sporty, the cabin looks every bit worthy of the Giulia's premium price tag. And even a short stint behind the wheel reveals the Giulia's sport sedan credentials, with superb steering feel and responsive handling. There's also the Quadrifoglio with its bonkers 505-horsepower V6. The Giulia isn't faultless — check out our Expert Rating to read our in-depth analysis — but its personality is a perfect antidote to small luxury sedan blandness.",
+    "rating": 7.4,
+    "pros": [ "Strong turbocharged engine lineup",
+        "Sleek interior",
+        "High performance of the Quadrifoglio model",
+        "Infotainment system has an easy user interface"
+    
+    ],
+    "cons": [ "Rear-seat space is tight for the class",
+    "The base-model seats are flat and uncomfortable",
+    "Trunk space is adequate but awkward to access",
+    "Noticeable engine and road noise"
+    
+    ],
+    "url1": "https://media.ed.edmunds-media.com/alfa-romeo/giulia/2021/oem/2021_alfa-romeo_giulia_sedan_quadrifoglio_fq_oem_4_1280x855.jpg",
+    "url2": "https://media.ed.edmunds-media.com/alfa-romeo/giulia/2021/oem/2021_alfa-romeo_giulia_sedan_quadrifoglio_rq_oem_7_1280x855.jpg",
+    "url3": "https://media.ed.edmunds-media.com/alfa-romeo/giulia/2021/oem/2021_alfa-romeo_giulia_sedan_quadrifoglio_f_oem_1_1280x855.jpg"
+},
+{
+    "make": "Aston Martin",
+    "model": "Vantage",
+    "year": 2021,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOtnOCkmoxylf0SCocnBA0Z9-X8k2LTFPWOw&usqp=CAU",
+    "description": "The Vantage is the entry point to the world of Aston Martin but should in no way be considered entry-level. It's equipped with a 503-horsepower turbocharged 4.0-liter V8 and your choice of either a seven-speed manual or a seven-speed automatic transmission. Handling is crisp, and when equipped with the optional manual transmission, the overall mood is one of engagement and exclusivity.The Vantage comes well equipped from the start, and options are largely focused on personalization with a wealth of paint options and interior color combinations. The Aston Martin bridges the gap between cars like the Jaguar F-Type SVR and the Bentley Continental GT, offering a mix of off-the-shelf performance hardware and bespoke customization. Other close competitors include the Mercedes-Benz AMG GT Coupe and the Porsche 911 Carrera S.",
+    "rating": 7.1,
+    "pros": [ "Potent 503-horsepower V8",
+    "Available manual transmission",
+    "Guaranteed exclusivity"
+    
+    ],
+    "cons": [ "Interior lacks the polish and presentation of rivals",
+   "Infotainment tech is outdated",
+    "Cabin can be noisy on less than perfect roads",
+    "Ride quality feels constantly busy"
+    
+    ],
+    "url1": "https://media.ed.edmunds-media.com/aston-martin/vantage/2021/oem/2021_aston-martin_vantage_convertible_roadster_fq_oem_1_1280x855.jpg",
+    "url2": "https://media.ed.edmunds-media.com/aston-martin/vantage/2021/oem/2021_aston-martin_vantage_convertible_roadster_fq_oem_2_1280x855.jpg",
+    "url3": "https://media.ed.edmunds-media.com/aston-martin/vantage/2021/oem/2021_aston-martin_vantage_convertible_roadster_rq_oem_1_1280x855.jpg"
+},
+{
+    "make": "Bentley",
+    "model": "Continental",
+    "year": 2020,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1TxRJmBvHlDpkb0a55_72bZa9TErXsGsbfw&usqp=CAU",
+    "description": "There are several reasons why someone might consider a Bentley Continental GT. For one, it's been fully redesigned for 2020, receiving a more muscular appearance, stronger performance and more features, all while maintaining extraordinarily high standards for craftsmanship. It's also a statement of wealth, with its $200,000-plus starting price.In this rarefied air, few cars are worthy of comparison against the 2020 Bentley Continental GT. The Rolls-Royce Wraith is the most direct competitor with a starting price well above $300,000. Other sporty coupes include the Porsche 911 Turbo S and Mercedes-Benz AMG S-Class Coupe. These models offer stirring performance but can't quite match Bentley's unapologetic allegiance to opulence.",
+    "rating": 8.3,
+    "pros": [ "Opulent interior design and craftsmanship",
+    "Excellent balance of comfort and performance",
+    "Endless customization options"
+    
+    ],
+    "cons": [ "Noticeable road noise on coarse asphalt",
+    "Limited outward visibility"
+    
+    ],
+    "url1": "https://media.ed.edmunds-media.com/bentley/continental/2020/oem/2020_bentley_continental_convertible_gt_fq_oem_1_1280x855.jpg",
+    "url2": "https://media.ed.edmunds-media.com/bentley/continental/2020/oem/2020_bentley_continental_convertible_gt_fq_oem_3_1280x855.jpg",
+    "url3": "https://media.ed.edmunds-media.com/bentley/continental/2020/oem/2020_bentley_continental_convertible_gt_rq_oem_1_1280x855.jpg"
+},
+{
+    "make": "Chevy",
+    "model": "Corvette",
+    "year": 2022,
+    "img": "data:image/jpeg;base64,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",
+    "description": "The Corvette offers a mind-bending package of quickness, handling and even comfort on the road. However, its biggest strength is the price, which undercuts several competing sports cars by a significant margin. New for this year is a race-inspired C8.R Edition package that pays tribute to the Corvette's motorsports success. But even base versions of this coupe are well equipped to compete against the likes of the BMW M4 and Porsche 911. Read the categories of our Expert Rating below to get our test team's full evaluation of the 2022 Corvette's performance, comfort and more.",
+    "rating": 8.5,
+    "pros": [ "Impressive power and acceleration",
+    "High handling limits don't take heroic skill to reach",
+    "Relatively affordable price for what you get"
+    
+    ],
+    "cons": [ "Not the easiest car to get in and out of",
+    "Poor rear visibility",
+    "Lacks some of the latest advanced driver safety features"
+    
+    ],
+    "url1": "https://media.ed.edmunds-media.com/chevrolet/corvette/2020/oem/2020_chevrolet_corvette_coupe_stingray_fq_oem_8_1280x855.jpg",
+    "url2": "https://media.ed.edmunds-media.com/chevrolet/corvette/2020/oem/2020_chevrolet_corvette_coupe_stingray_rq_oem_6_1280x855.jpg",
+    "url3": "https://media.ed.edmunds-media.com/chevrolet/corvette/2020/oem/2020_chevrolet_corvette_coupe_stingray_fq_oem_9_1280x855.jpg"
+},
+{
+    "make": "Porche",
+    "model": "911",
+    "year": 2022,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxTgVIn4ZYvxFGOIwmV3PR7yK5R4QN9uqZAQ&usqp=CAU",
+    "description": "It's difficult to think of a sports car without picturing the iconic Porsche 911. A lot of that can be attributed to the 911's history of gradual evolution instead of being completely re-imagined with every generation. As a result, today's 2022 Porsche 911 is as recognizable as one from 1964.This year, the Porsche 911 gains two new trim levels to give you even more choice. The new GTS models fill the gap between the Carrera/Targa models and the high-performance Turbo lineup, both in terms of price and performance. There's also a new GT3 variant that trades some comfort and refinement for sharp handling and track-day thrills. Also new for 2022 is the inclusion of Android Auto smartphone integration and a new remote-control parking feature.",
+    "rating": 8.2,
+    "pros": [ "Powerful yet surprisingly economical engines",
+    "Impeccable handling inspires driver confidence",
+    "Premium interior and wide range of customization potential",
+    "Comfortable and practical for daily driving"
+    
+    ],
+    "cons": [ "Even the base model now costs over $100,000",
+    "Gauge cluster easily obscured by steering wheel",
+    "Android Auto still requires a cable (Apple CarPlay functions wirelessly)"
+    
+    ],
+    "url1": "https://media.ed.edmunds-media.com/porsche/911/2022/oem/2022_porsche_911_coupe_carrera-4-gts_fq_oem_1_1280x855.jpg",
+    "url2": "https://media.ed.edmunds-media.com/porsche/911/2022/oem/2022_porsche_911_coupe_carrera-4-gts_fq_oem_3_1280x855.jpg",
+    "url3": "https://media.ed.edmunds-media.com/porsche/911/2022/oem/2022_porsche_911_coupe_carrera-4s_fq_oem_2_1280x855.jpg"
+},
+{
+    "make": "Porche",
+    "model": "718 Cayman GT4",
+    "year": 2021,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoaWYeD8BWeNm3QvGS5O-FU9ieVZVm2AsPQ&usqp=CAU",
+    "description": "When Porsche renamed its Cayman the 718 Cayman back in 2017 and replaced the car's six-cylinder engine with a turbocharged four-cylinder, part of the connection to the 911 — something so intrinsic to the Porsche experience — was lost. There's nothing wrong with the four-cylinder 718's performance certainly, but the driving experience is all a bit soulless. Thankfully, there's a heaping dose of James Brown in the 2021 718 Cayman.The Cayman got a brand-new six-cylinder last year with the debut of the GT4. For 2021, Porsche is following it up with the 718 Cayman GTS 4.0. It has the same naturally aspirated 4.0-liter flat-six engine as the GT4, albeit with a bit less horsepower (394 horsepower compared to 414 hp in the GT4). You do, however, get all the comfort and accoutrements you'd expect from the GTS model line as well as a lower price.",
+    "rating": 8.1,
+    "pros": [ "Outstanding handling",
+    "Engines deliver stirring performance and high fuel economy",
+    "Exceptional build quality",
+    "Broad range of customization options"
+    
+    ],
+    "cons": [ "Unrefined four-cylinder engine and exhaust noise",
+    "Tech features list is thin and interface could be better"
+    
+    ],
+    "url1": "https://media.ed.edmunds-media.com/porsche/718-cayman/2021/oem/2021_porsche_718-cayman_coupe_gt4_fq_oem_1_1280x855.jpg",
+    "url2": "https://media.ed.edmunds-media.com/porsche/718-cayman/2021/oem/2021_porsche_718-cayman_coupe_gt4_fq_oem_2_1280x855.jpg",
+    "url3": "https://media.ed.edmunds-media.com/porsche/718-cayman/2021/oem/2021_porsche_718-cayman_coupe_gt4_fq_oem_4_1280x855.jpg"
+},
+{
+    "make": "BMW",
+    "model": "8 Series Coupe",
+    "year": 2022,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7MJT2jwEqJgD4ekD3IQqmvt3W7koBGYU_uw&usqp=CAU",
+    "description": "In an era where 'grand touring' means living vicariously through nomadic YouTubers, the BMW 8 Series reminds us that drivers once took to the open highway in luxuriously large coupes with powerful engines. The 8 Series might conjure up a nostalgic idea, but it's one of the best modern grand-touring cars around. Available as a coupe or convertible, with a stout six-cylinder engine or prodigious twin-turbo V8, the 8 Series is plush, fast and built for hours of comfortable driving.For 2022, last year's optional M Sport package now comes standard. It includes black exterior trim, upgraded brakes, and sport seats with enhanced bolsters and shape. Nineteen-inch wheels are also now standard issue. The 8 Series isn't cheap, of course. A handful of worthy rivals cost about the same, including the Porsche 911, which offers sharper handling but a less decadent interior. The Lexus LC 500 and Jaguar F-Type also merit a look for anyone considering the big BMW. Read on for our Expert Rating and a deeper dive into today's 8 Series.",
+    "rating": 8.1,
+    "pros": [ "Both available engines offer ample performance",
+    "Comfortable for long-distance cruising",
+    "More cargo room than you might expect",
+    "Luxurious and refined interior"
+    
+    ],
+    "cons": [ "Rear seats aren't of much use",
+    "Swoopy styling reduces outward visibility",
+    "Getting advanced driver assist tech requires two packages"
+    
+    ],
+    "url1": "https://media.ed.edmunds-media.com/bmw/8-series/2020/oem/2020_bmw_8-series_coupe_m850i-xdrive_fq_oem_1_1280x855.jpg",
+    "url2": "https://media.ed.edmunds-media.com/bmw/8-series/2020/oem/2020_bmw_8-series_coupe_m850i-xdrive_fq_oem_4_1280x855.jpg",
+    "url3": "https://media.ed.edmunds-media.com/bmw/8-series/2020/oem/2020_bmw_8-series_coupe_m850i-xdrive_s_oem_3_1280x855.jpg"
+},
+{
+    "make": "BMW",
+    "model": "M2",
+    "year": 2021,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj0PGhT2AP8rwqb3b9K-1BtoluYj1vorMlkA&usqp=CAU",
+    "description": "As most performance coupes have gotten bigger and more expensive, the 2021 BMW M2 Competition represents a bit of a throwback. It's got a just-right combo of a 405-horsepower turbocharged six-cylinder engine, taut and lively handling and, an increasing rarity these days, a standard manual transmission. The M2 is based on the 2 Series coupe, so its styling isn't overly flashy. But those in the know will easily recognize the M2's wider fenders, big brakes and more aggressive-looking front end.We're fans of the M2 Competition, and you can read our Expert Rating below to get our take on its performance, comfort and more. But if it's not quite to your liking, there are a few other options to check out. Audi's TT RS offers tenacious performance and all-wheel-drive traction, while the Ford Mustang boasts eye-popping performance and a decent list of available features. The Toyota GR Supra and Porsche 718 Cayman are also great, though they lack a rear seat.",
+    "rating": 8.0,
+    "pros": [ "Big power from the turbocharged straight-six",
+    "Loads of fun to drive thanks to precision handling and steering",
+    "Practical enough for daily use",
+    "Limited sales ensure exclusivity"
+    
+    ],
+    "cons": [ "Overly choppy ride gets tiresome on bumpy roads",
+    "Few interior and exterior customization options"
+    
+    ],
+    "url1": "https://media.ed.edmunds-media.com/bmw/m2/2019/oem/2019_bmw_m2_coupe_competition_fq_oem_1_1280x855.jpg",
+    "url2": "https://media.ed.edmunds-media.com/bmw/m2/2019/oem/2019_bmw_m2_coupe_competition_fq_oem_2_1280x855.jpg",
+    "url3": "https://media.ed.edmunds-media.com/bmw/m2/2019/oem/2019_bmw_m2_coupe_competition_rq_oem_1_1280x855.jpg"
+},
+{
+    "make": "Lexus",
+    "model": "RC 350",
+    "year": 2022,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmTN0N9gA8Ly2yuCeBX_pWGxQVeevX5RBrHQ&usqp=CAU",
+    "description": "If you want a car with curb presence, the 2022 Lexus RC 350 has it. Like a home that draws you in with shaded porticos and intricate flagstone, this Lexus sport coupe cuts a sharp figure with its creased metal, steeply raked windshield and sloping roofline. The RC isn't quite as sporty as it looks, however. Its 311-horsepower V6 engine hauls the car up to speed just fine, but in the curves and corners, the portly RC 350 proves less nimble than its main rivals. The F Sport trim's adaptive suspension and optional grippy summer tires dial up handling performance, but ultimately the RC 350 is more about cruising and comfort than speed or dynamic movements.The interior is small, but the soft-touch materials are supple and tightly assembled. The firm ride is absorbent enough for choppy commutes, and the seats hold fast without intrusive bolstering. Perhaps the RC 350's biggest drawback is that it hasn't evolved much since its introduction. Recent updates to the Audi A5/S5 and BMW 4 Series have made them more fuel-efficient and tech-friendly than the Lexus. But the RC 350 still has enough appeal to make it worth checking out if you want a distinctive and comfortable luxury coupe. Read our Expert Rating for a deeper dive into the pros and cons of this year's RC.",
+    "rating": 7.2,
+    "pros": [ "Excellent interior craftsmanship",
+    "One of the quietest cars in its class",
+    "Smooth power from the V6 engine"
+    
+    ],
+    "cons": [ "Overall performance comes up short against rivals",
+    "Infotainment interface is difficult to operate",
+    "Tiny back seats are small, even for kids",
+    "Offers less cargo room than competitors"
+    
+    ],
+    "url1": "https://media.ed.edmunds-media.com/lexus/rc-350/2019/oem/2019_lexus_rc-350_coupe_base_fq_oem_1_1280x855.jpg",
+    "url2": "https://media.ed.edmunds-media.com/lexus/rc-350/2019/oem/2019_lexus_rc-350_coupe_base_fq_oem_2_1280x855.jpg",
+    "url3": "https://media.ed.edmunds-media.com/lexus/rc-350/2019/oem/2019_lexus_rc-350_coupe_base_s_oem_1_1280x855.jpg"
+},
+{
+    "make": "Lamborghini",
+    "model": "Huracan",
+    "year": 2021,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfl5w9ODeCr8sLUAdEqxLFCgXTHtOFLudSg&usqp=CAU",
+    "description": "The Huracan Evo is powered by a naturally aspirated 5.2-liter V10. Rear-drive Huracans produce 602 horsepower, while all-wheel-drive models now come standard with the pre-Evo Performante tune, which is good for 631 horsepower. Either way, the Huracan comes with a seven-speed dual-clutch automatic transmission.",
+    "rating": 8.1,
+    "pros": [ "Stunning performance capabilities",
+    "Exceptionally comfortable ride for an exotic car",
+    "Relatively easy to see out of",
+    "Intoxicating sound from the V10 engine"
+    
+    ],
+    "cons": [ "Almost no interior storage to speak of",
+    "Touchscreen infotainment is distracting to use",
+    "Minimal cargo capacity"
+    
+    ],
+    "url1": "https://media.ed.edmunds-media.com/lamborghini/huracan/2021/oem/2021_lamborghini_huracan_coupe_evo_fq_oem_1_1280x855.jpg",
+    "url2": "https://media.ed.edmunds-media.com/lamborghini/huracan/2021/oem/2021_lamborghini_huracan_coupe_evo_fq_oem_10_1280x855.jpg",
+    "url3": "https://media.ed.edmunds-media.com/lamborghini/huracan/2021/oem/2021_lamborghini_huracan_coupe_evo_fq_oem_3_1280x855.jpg"
+},
+{
+    "make": "Mercedes-Benz",
+    "model": "AMG GT Coupe",
+    "year": 2021,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_2JYC1lk0pLues-ttwPes-wv3WOpt3su-Q&usqp=CAU",
+    "description": "The Mercedes-Benz AMG GT started out for the 2016 model year as a two-seat coupe but has since grown to include a convertible and a four-door sedan. It's a broad and somewhat confusing lineup given the different body styles, trim levels and engines, but ultimately all you need to know is that this is Mercedes' most sport-oriented model.Sleek and aggressive styling is the first thing that stands out with the coupe and the convertible. But the sound and stout performance from the available V8 engines is certainly a close second. New for 2021 is the Black Series, which offers race car-inspired styling and aerodynamic tweaks as well as a 720-horsepower version of the car's twin-turbo V8 engine.It should come as no surprise that the AMG GT's main rival is the Porsche 911. Both are halo sports cars for their brands. But there's also strong competition from the BMW M8, especially in its Competition trim, and even the Acura NSX. Read our Expert Rating below to get our test team's take on the AMG GT's performance, comfort and more.",
+    "rating": 8.2,
+    "pros": [ "Thrilling acceleration from powerful V8",
+    "Simple, gorgeous design",
+    "Comfortable ride despite handling prowess",
+    "Sport seats offer good support but don't feel confining"
+    
+    ],
+    "cons": [ "Smallish size means few interior storage options",
+    "Intrusive road noise on anything but the smoothest pavement",
+    "Dramatic styling creates significant blind spots"
+    
+    ],
+    "url1": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2021/oem/2021_mercedes-benz_amg-gt_coupe_black-series_fq_oem_1_1280x855.jpg",
+    "url2": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2021/oem/2021_mercedes-benz_amg-gt_coupe_black-series_fq_oem_10_1280x855.jpg",
+    "url3": "https://media.ed.edmunds-media.com/mercedes-benz/amg-gt/2021/oem/2021_mercedes-benz_amg-gt_coupe_black-series_fq_oem_11_1280x855.jpg"
+},
+{
+    "make": "Lotus",
+    "model": "Evora GT",
+    "year": 2021,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlQpXTe2B2GUrgw-C0DsTZXAxQ0e2EQjwHnQ&usqp=CAU",
+    "description": "The U.S. sports car market is already pretty slim, and it's soon to become even slimmer with the departure of the low-volume Lotus Evora GT, which ends production after 2021. The Evora GT had just hit its stride, too, after receiving its biggest update in 10 years for 2020. The sports car was a dream come true for driving purists, but it's not without its flaws.Staying true to Lotus founder Colin Chapman's minimalist design philosophy, the Evora's cabin affords room for a driver and passenger and not much else. The Evora also isn't big on creature comforts, offering the bare minimum of convenience and tech features and none of the advanced safety features you've come to expect on a high-priced performance car. But if you want an undiluted sports car experience, few cars on the market can give it to you like the 2021 Lotus Evora GT. Keep reading for our Expert Rating to find out if the Evora GT is for you.",
+    "rating": 7.3,
+    "pros": [ "Excellent handling and steering feel",
+    "Available manual transmission",
+    "Low sales ensure exclusivity"
+    
+    ],
+    "cons": [ "Poor rearward visibility",
+    "Cargo and passenger space is tiny",
+    "Infotainment system looks like an aftermarket add-on",
+    "Limited dealer and service network"
+    
+    ],
+    "url1": "https://media.ed.edmunds-media.com/lotus/evora-gt/2020/oem/2020_lotus_evora-gt_coupe_2plus2_fq_oem_4_1280x855.jpg",
+    "url2": "https://media.ed.edmunds-media.com/lotus/evora-gt/2020/oem/2020_lotus_evora-gt_coupe_2plus2_rq_oem_3_1280x855.jpg",
+    "url3": "https://media.ed.edmunds-media.com/lotus/evora-gt/2020/oem/2020_lotus_evora-gt_coupe_2plus2_f_oem_3_1280x855.jpg"
+},
+{
+    "make": "Maserati ",
+    "model": "Ghibli",
+    "year": 2021,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLj2Cvdr-mDTb1B036vtKEqsjnr9dEr7htTg&usqp=CAU",
+    "description": "So prevalent are midsize German luxury sedans that you could be forgiven if you forgot that an Italian option exists. Even with its muscular styling and evocative exhaust note, the Maserati Ghibli flies well under the radar of most luxury-sedan buyers. For 2021, Maserati aims to change that with some key updates that include a new infotainment system, refreshed styling and an ultra-high-performance trim level known as the Trofeo. Meant to go head to head with Mercedes-Benz's AMG and BMW's M performance divisions, the Maserati packs a turbocharged with 580 horsepower and an advertised top speed of 203 mph.Oddly, performance is one thing we never thought the Ghibli lacked. Since the Ghibli's debut for the 2014 model year, it's provided enjoyable handling and satisfying acceleration. What has been lacking is the high level of fit and finish of its ubiquitous German rivals. The Ghibli does have a certain old-world charm about it, but even the most sentimental buyers might expect a bit more for their money.German sedans have added a little style to their portfolios, and the BMW 8 Series Gran Coupe and Mercedes-Benz AMG GT sedan offer a new level of cool thanks to their coupe-like styling. Like the Maserati, they also offer multiple engines and available all-wheel drive, but their infotainment systems are much more advanced and their driver aids are generally more refined. The Maserati Ghibli is a bit of a left-field choice, but its mix of style, exclusivity and performance makes it worth a look, so long as there's a dealership near you. ",
+    "rating": 8.3,
+    "pros": [ "Expressive Italian styling",
+    "Sharp handling makes it fun to drive",
+    "Front seats are supportive and comfortable",
+    "Evocative exhaust note"
+    
+    ],
+    "cons": [ "Interior fit and finish lacks the refinement of rivals",
+    "Rear seat access is a bit tight",
+    "Limited dealer network"
+    
+    ],
+    "url1": "https://media.ed.edmunds-media.com/maserati/ghibli/2021/oem/2021_maserati_ghibli_sedan_s-granlusso_fq_oem_1_1280x855.jpg",
+    "url2": "https://media.ed.edmunds-media.com/maserati/ghibli/2021/oem/2021_maserati_ghibli_sedan_s-granlusso_fq_oem_2_1280x855.jpg",
+    "url3": "https://media.ed.edmunds-media.com/maserati/ghibli/2021/oem/2021_maserati_ghibli_sedan_s-granlusso_fq_oem_4_1280x855.jpg"
+}
+]

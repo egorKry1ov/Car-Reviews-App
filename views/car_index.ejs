@@ -1,20 +1,16 @@
 
-
-<div> 
-    <!-- <a href="/cars/new" class="btn btn-primary">Add</a> -->
-</div>
-
 <div class="box_container">
     <% data.forEach(item => { %>
         <div class="cards">
             <img src='<%=item.img%>' height='200' />
+            <a href="/cars/<%=item.id%>"></a>
             <div class='text-block'>
                 <a class="btn btn-danger" href="/cars">
                 <%=item.rating%>
                 </a>
             </div>
             <div class="font main-text">
-                <div>
+                <div style="text-align: center;">
                 <%=item.year%> 
                 <%=item.make%> 
                 <%=item.model%>
@@ -22,9 +18,9 @@
             </div>
             <div class="cardButtonParent">
                 <a  class="btn btn-secondary" href="/cars/<%=item.id%>">Description</a> 
-                <a href="/cars/<%=item.id%>" class="btn btn-secondary">Edit</a>
+                <a href="/cars/edit/<%=item.id%>" class="btn btn-secondary">Edit</a>
                 <form action="/cars/<%=item.id%>?_method=DELETE" method="POST">
-                    <input class="btn btn-warning"
+                    <input class="btn btn-dark"
                         type="submit"
                         value="Delete"
                     />
@@ -32,5 +28,4 @@
             </div>
         </div>
     <% }) %>
-
 </div>

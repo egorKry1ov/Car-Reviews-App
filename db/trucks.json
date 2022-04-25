@@ -1,0 +1,193 @@
+[
+    {
+        "make": "Chevy",
+        "model": "Silverado 1500",
+        "year":  2021,
+        "img": "https://media-service.carmax.com/img/vehicles/22063795/1_cleaned.jpg?width=800",
+        "description": "For the second year in a row, Chevrolet's full-size light-duty pickup truck gets a round of updates designed to add value and make it more appealing in comparison to primary rivals from Ford and Ram. Highlights include a new configurable tailgate (the Multi-Flex) that opens a variety of ways plus upgraded infotainment and trailer-towing technology. There's also an adaptive suspension option for the top trim level that should smooth out the ride quality.Chevy does give you a lot of choice for the 2021 Silverado 1500. It comes in regular-, extended- and crew-cab styles with a short, standard or long bed. Eight main trim levels are available, including the Trail Boss version that aims to capitalize on the lifted off-road truck trend. Four engines are available too, including a diesel-powered six-cylinder and Chevy's tried-and-true 5.3-liter V8.",
+        "rating": 7.2,
+        "pros": [ 
+        "Several available powertrains for various towing and hauling needs",
+        "Long cabin provides excellent rear legroom",
+        "Lots of in-bed tie-down points and massive bed capacity",
+        "Touchscreen display is attractive and easy to use"
+        
+        ],
+        "cons": [ 
+            "Interior design and cabin controls look dated",
+            "Most versions ride a little rougher than primary rivals",
+            "Quality of some cabin materials is subpar"
+        
+        ],
+        "url1": "https://media.ed.edmunds-media.com/stockphotos/chevrolet/silverado-1500/2021/default-815x543.jpg",
+        "url2": "https://media.ed.edmunds-media.com/chevrolet/silverado-1500/2021/evox/2021_chevrolet_silverado-1500_crew-cab-pickup_rst_tds_evox_7_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/chevrolet/silverado-1500/2021/evox/2021_chevrolet_silverado-1500_crew-cab-pickup_rst_tds2_evox_7_1280x855.jpg"
+    },
+    {
+        "make": "Ram",
+        "model": "1500",
+        "year":  2020,
+        "img": "https://media-service.carmax.com/img/vehicles/21917994/1_cleaned.jpg?width=800",
+        "description": "Ram redesigned its 1500 truck last year, and it continues to be our top-rated truck. All Ram 1500 trims come with excellent driving dynamics, generously appointed interiors, and a unique rear suspension for the class. With it, the Ram glides past competitors with a ride quality more commonly associated with cars. Truck duties are not a problem either — the Ram 1500 offers comparable maximum ratings for both towing and payload capacity. Engine choices include familiar picks such as a 3.6-liter V6 and a 5.7-liter V8. But there are some new tricks here. Last year, Ram introduced a mild hybrid system that improves fuel efficiency and the smoothness of the engine stop-start system. It's standard equipment on the V6 and optional on the V8.New this year is a diesel-powered turbocharged 3.0-liter V6 known as the EcoDiesel. Ram had equipped the previous-generation truck with this engine but had to pull it from the market because of emissions certification problems. The new version is more powerful and more fuel-efficient (it's rated at 24-26 mpg combined, compared to the gasoline V6's 21-23 mpg). It also allows for a stout maximum tow rating of 12,560 pounds.",
+        "rating": 8.4,
+        "pros": [ 
+            "Strong diesel V6 tow ratings now rival those of the V8",
+            "Unique suspension delivers unequaled ride smoothness and control",
+            "Cabin is roomy, quiet and laden with useful storage and tech features",
+            "Off-road-focused Rebel delivers real capability and a unique look"
+        
+        ],
+        "cons": [ "Common driver assist features are limited to higher trims"
+        
+        ],
+        "url1": "https://media.ed.edmunds-media.com/ram/1500/2020/oem/2020_ram_1500_crew-cab-pickup_big-horn_fq_oem_2_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/ram/1500/2020/oem/2020_ram_1500_crew-cab-pickup_big-horn_fq_oem_1_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/ram/1500/2020/oem/2020_ram_1500_crew-cab-pickup_laramie_fq_oem_2_1280x855.jpg"
+    },
+    {
+        "make": "Ford",
+        "model": "f-150",
+        "year": 2019,
+        "img": "https://media-service.carmax.com/img/vehicles/22107878/1_cleaned.jpg?width=800",
+        "description": "The 2019 Ford F-150 is one of the most popular trucks in the United States. That it's also one of the most capable vehicles on the road today is no coincidence. Like other top-tier full-size pickup trucks, the F-150 is available in a wide variety of trim levels, comes with many available powertrains, and delivers big-time towing and hauling capabilities.It's more than just a brawny pickup truck, though. The F-150 is also versatile enough for family duty. The interior is modern and comfortable and has many high-class touches. Tech features such as the Sync 3 infotainment system give you easy access to your smartphone, while the latest in advanced driver safety aids give you added peace of mind. Notably, forward collision warning with automatic braking is now standard on every F-150.",
+        "rating": 8.1,
+        "pros": [ 
+            "High towing and payload ratings are ideal for work or play",
+            "Comfort and safety tech spans blue-collar basic to luxury living",
+            "Multiple engines deliver balance of power and fuel economy",
+            "Raptor model's gonzo off-road ability"
+        
+        ],
+        "cons": [ "Ride can be rough with an unladen bed",
+                "Fell short of some fuel economy estimates in our real-world testing"
+        
+        ],
+        "url1": "https://media.ed.edmunds-media.com/ford/f-150/2019/oem/2019_ford_f-150_extended-cab-pickup_raptor_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/ford/f-150/2019/oem/2019_ford_f-150_extended-cab-pickup_raptor_fq_oem_2_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/ford/f-150/2019/oem/2019_ford_f-150_extended-cab-pickup_raptor_rq_oem_1_1280x855.jpg"
+    },{
+        "make": "GMC",
+        "model": "Sierra 1500",
+        "year": 2021,
+        "img": "https://media-service.carmax.com/img/vehicles/22198907/1_cleaned.jpg?width=800",
+        "description": "The GMC Sierra 1500 is a full-size pickup truck and one of the most popular vehicles in America. Like all modern trucks, the Sierra 1500 is just as good at hauling a family as it is a bed full of gravel. It has a spacious cabin, a full complement of driver aids, and a wide range of available engines, from a fuel-efficient four-cylinder to a muscular 6.2-liter V8. There's even the complicated but surprisingly useful MultiPro tailgate that can be used as a table or folded down as a step up to the bed.Like its corporate twin, the Chevrolet Silverado, the Sierra competes in one of the toughest segments in the market. Rivals include the fully redesigned Ford F-150 — the Edmunds Top Rated Truck for 2021 — and the Ram 1500. These trucks edge out the Sierra with their more premium interior designs and more comfortable rides. Then there's the Silverado, which offers nearly everything the Sierra does but at a slightly lower price. Still, this is an undeniably capable truck. Check out our in-depth Expert Rating to learn more about our take on the 2021 Sierra.",
+        "rating": 7.4,
+        "pros": [ "Several available powertrains for towing and hauling needs",
+        "Long cabin provides excellent rear legroom",
+        "Massive bed capacity and a bounty of in-bed tie-down points",
+        "Touchscreen display is attractive and easy to use"
+        
+        ],
+        "cons": [ "Interior design and cabin controls look dated",
+        "Rides rougher than primary rivals",
+        "Quality of some cabin materials is subpar",
+        "Extra-large center console takes up lots of cabin space"
+        ],
+        "url1": "https://media.ed.edmunds-media.com/gmc/sierra-1500/2020/oem/2020_gmc_sierra-1500_crew-cab-pickup_at4_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/gmc/sierra-1500/2020/oem/2020_gmc_sierra-1500_crew-cab-pickup_at4_rq_oem_1_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/gmc/sierra-1500/2020/oem/2020_gmc_sierra-1500_crew-cab-pickup_at4_f_oem_1_1280x855.jpg"
+    },{
+        "make": "Honda",
+        "model": "Ridgeline",
+        "year": 2021,
+        "img": "https://media-service.carmax.com/img/vehicles/21493539/1_cleaned.jpg?width=800",
+        "description": "The Honda Ridgeline has been our top-ranked midsize pickup truck for a while now. No other truck in the class can match its smooth ride, innovative storage options, and quiet and comfortable interior. It also has enough towing, hauling and off-roading capability to handle the majority of work or recreational tasks you'll want to use it for. On tap for the 2021 Ridgeline are a few changes to enhance the truck's cosmetic appeal.It seems a little silly saying it, but Honda is aiming to make the Ridgeline look more like a truck rather than a Honda Pilot SUV with a cargo bed out back. The new sheet metal from the windshield forward helps give the Ridgeline a more squared-off look than before. At the rear is a new rear bumper design and a sporty-looking dual exhaust. To further toughen up the looks Honda has brought out a HPD (Honda Performance Development) appearance package that includes squared-off fender guards, graphics and special bronze-colored wheels.",
+        "rating": 8.5,
+        "pros": [ "Superior ride and handling thanks to independent rear suspension",
+        "Unique two-way tailgate and large lockable in-bed trunk",
+        "Sophisticated all-wheel-drive system provides multi-surface traction",
+        "Spacious crew cab is comfortable and handsomely finished"
+        
+        ],
+        "cons": [ "Lacks low-range gearing and underbody clearance of typical trucks",
+       "Sensitive driver aids are distracting",
+        "No optional powertrain choices",
+        "Mild towing rating compared to top rivals"
+        
+        ],
+        "url1": "https://media.ed.edmunds-media.com/honda/ridgeline/2021/oem/2021_honda_ridgeline_crew-cab-pickup_rtl-e_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/honda/ridgeline/2021/oem/2021_honda_ridgeline_crew-cab-pickup_rtl-e_fq_oem_4_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/honda/ridgeline/2021/oem/2021_honda_ridgeline_crew-cab-pickup_rtl-e_fq_oem_2_1280x855.jpg"
+    },{
+        "make": "Jeep",
+        "model": "Gladiator",
+        "year":  2020,
+        "img": "https://media-service.carmax.com/img/vehicles/21919395/1_cleaned.jpg?width=800",
+        "description": "The introduction of the 2020 Jeep Gladiator gives midsize-truck shoppers an intriguing new option to consider. Simply put, the Gladiator is a four-door Wrangler Unlimited with an extended wheelbase and a 5-foot cargo bed instead of the normal cargo area. This Wrangler DNA promises to give the Gladiator off-road performance that no other truck can match.There's plenty of towing and hauling capability here, too. When appropriately equipped, the Gladiator can tow a class-leading 7,650 pounds. The cargo bed is only available in a 5-foot-long configuration, but it's easy to access and has some useful features such as a special tailgate position that enables you to haul 4-by-8-foot sheets of plywood.",
+        "rating": 7.9,
+        "pros": [ "Rugged Jeep character and off-road prowess",
+        "The only convertible truck you can buy",
+        "Offers bigger back seat than other midsize pickups"
+        
+        ],
+        "cons": [ "Steering is slow and vague, particularly on the Rubicon trim",
+        "Ride quality can get jiggly at times",
+        "Only one available engine for now"
+        
+        ],
+        "url1": "https://media.ed.edmunds-media.com/jeep/gladiator/2020/oem/2020_jeep_gladiator_crew-cab-pickup_mojave_fq_oem_1_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/jeep/gladiator/2020/oem/2020_jeep_gladiator_crew-cab-pickup_mojave_fq_oem_3_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/jeep/gladiator/2020/oem/2020_jeep_gladiator_crew-cab-pickup_mojave_fq_oem_5_1280x855.jpg"
+    },{
+        "make": "Nissan",
+        "model": "Titan",
+        "year": 2019,
+        "img": "https://media-service.carmax.com/img/vehicles/22542348/1_cleaned.jpg?width=800",
+        "description": "The 2019 Nissan Titan meets the requirements for a full-size truck. It's powerful, versatile, and available in a number of configurations. And, for 2019, the Titan gets a few upgrades including the addition of an optional premium stereo and a standard 7-inch touchscreen with Apple CarPlay and Android Auto capability. But in today's full-size truck market, just meeting requirements isn't enough.In the Titan's favor is its standard 5.6-liter V8 engine that's paired to a seven-speed automatic transmission. It's a solid powertrain that's capable of towing more than 9,000 pounds. But if you want something else, you're out of luck. In contrast, nearly every full-size truck competitor has a range of available engines. Inside, the Titan is spacious and well-equipped, but rivals are a bit more comfortable, offering better ride and interior quality.",
+        "rating": 6.9,
+        "pros": [ "Standard V8 offers plenty of power",
+        "Numerous in-cabin and bed storage solutions",
+        "Optional Pro-4X off-road package offers useful upgrades",
+        "Generous bumper-to-bumper warranty"
+        ],
+        "cons": [ "No alternative engines",
+        "Only one available axle ratio",
+        "Touchscreen interface hampered by small buttons",
+        "Cabin design not especially attractive",
+        "Maximum towing and payload capacities slightly lower than rivals"
+        
+        ],
+        "url1": "https://media.ed.edmunds-media.com/nissan/titan/2019/oem/2019_nissan_titan_crew-cab-pickup_pro-4x_fq_oem_4_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/nissan/titan/2019/oem/2019_nissan_titan_crew-cab-pickup_pro-4x_rq_oem_1_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/nissan/titan/2019/oem/2019_nissan_titan_crew-cab-pickup_pro-4x_fq_oem_2_1280x855.jpg"
+    },{
+        "make": "Toyota",
+        "model": "Tacoma",
+        "year": 2021,
+        "img": "https://media-service.carmax.com/img/vehicles/21977553/1_cleaned.jpg?width=800",
+        "description": "Not everybody needs the size and capabilities of a full-size pickup. That's where midsize trucks come in, and the 2021 Toyota Tacoma is one of the better choices in the class. It trails behind the more city-friendly Honda Ridgeline and all-terrain Jeep Gladiator in our rankings, but we think the Tacoma is a sensible middle ground between the two. It also feels a little more refined than rivals from Chevrolet, Ford and GMC.After last year's significant refresh, there are no changes to the core Tacoma offerings. There are, however, a pair of new limited-edition trims for buyers looking for something a little different. The Trail Special Edition is based on the near entry-level SR5 trim with the double-cab body style. Limited to 7,000 units, it comes with all-terrain tires and lockable bed storage bins. The driver's side bin is even insulated so it can function as a built-in cooler. There's also a Nightshade Special Edition based on the more expensive Limited trim, but changes are only aesthetic, with blacked-out badging and trim throughout. Just 5,000 are planned for production.",
+        "rating": 7.7,
+        "pros": [ "Rugged off-pavement capability",
+        "Easily understood interior controls",
+        "Composite truck bed has movable tie-down cleats and a power outlet",
+        "Top-level V6 can be paired with a six-speed manual transmission"
+        
+        ],
+        "cons": [ "Off-road emphasis produces a tall step-up height"
+        
+        ],
+        "url1": "https://media.ed.edmunds-media.com/toyota/tacoma/2020/oem/2020_toyota_tacoma_crew-cab-pickup_trd-off-road_fq_oem_5_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/toyota/tacoma/2020/oem/2020_toyota_tacoma_crew-cab-pickup_trd-off-road_rq_oem_1_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/toyota/tacoma/2020/oem/2020_toyota_tacoma_crew-cab-pickup_trd-off-road_rq_oem_2_1280x855.jpg"
+    },{
+        "make": "Toyota",
+        "model": "Tundra",
+        "year": 2022,
+        "img": "https://media-service.carmax.com/img/vehicles/22301055/1_cleaned.jpg?width=800",
+        "description": "A redesigned Toyota Tundra is finally here for 2022. This is Toyota's full-size truck, and its new third generation is a welcome successor to the long-running second generation made from 2007 all the way to 2021. Recent versions of that old Tundra trailed behind the Chevrolet Silverado 1500, Ford F-150 and Ram 1500 in just about every category.Key enhancements for the new 2022 Tundra include an overhauled frame, a new rear suspension, new powertrains and a more modern interior design. Under the hood is your choice of two turbocharged V6 engines. The base turbo V6 makes about as much power as the old Tundra's V8 (389 horsepower) but generates more torque, which is helpful for towing, and boasts considerably better EPA-estimated fuel economy. The optional hybrid V6 version, called i-Force Max, uses a battery located under the rear seats to power an electric motor that gives the Tundra even more muscle over the standard V6.",
+        "rating": 8.0,
+        "pros": [ "Smooth power from turbocharged V6 engine",
+        "Easy-to-use controls",
+        "Standard composite bed limits dents and scratches",
+        "Available 14-inch touchscreen looks great"
+        
+        ],
+        "cons": [ "Base engine returns subpar fuel economy in our testing",
+        "No trick tailgate options like on some rivals"
+        
+        ],
+        "url1": "https://media.ed.edmunds-media.com/toyota/tundra/2022/oem/2022_toyota_tundra_crew-cab-pickup_1794-edition_fq_oem_2_1280x855.jpg",
+        "url2": "https://media.ed.edmunds-media.com/toyota/tundra/2022/oem/2022_toyota_tundra_crew-cab-pickup_1794-edition_fq_oem_3_1280x855.jpg",
+        "url3": "https://media.ed.edmunds-media.com/toyota/tundra/2022/oem/2022_toyota_tundra_crew-cab-pickup_1794-edition_fq_oem_4_1280x855.jpg"
+    }
+]

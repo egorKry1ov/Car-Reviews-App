@@ -5,13 +5,22 @@ const router = express.Router()
 
 router.get('/', (req, res) => {
     Car.find({})
-    .then((cars) => res.render('index', { data: cars }))
+    .then((cars) => res.render('car_index', { data: cars }))
 })
+
 
 router.post("/", (req, res) => {
     Car.create(req.body)
         .then(() => res.redirect('/cars'))
         console.log()
+});
+
+router.post("/search", (req, res) => {
+    Car.find({make: req.body.make})
+        .then((cars) => { 
+            console.log(cars) 
+            res.render('car_index', { data: cars})
+        })
 });
 
 router.delete("/:id", (req, res) => {
@@ -20,20 +29,27 @@ router.delete("/:id", (req, res) => {
     );
 });
 
-router.put("/:id", (req, res) => {
+router.put("/edit/:id", (req, res) => {
     Car.findOneAndUpdate({ _id: req.params.id }, req.body).then(
-        (items) => res.redirect('/')
+        (items) => res.redirect('/cars')
     );
 });
 
 router.get('/new', (req, res) => {
-    res.render('new')
+    res.render('car_new')
 })
 
 router.get('/:id', (req, res) => {
     Car.findById(req.params.id)
     .then(cars => {
-        res.render('description', { data: cars })
+        res.render('car_description', { data: cars })
+    })
+})
+
+router.get('/edit/:id', (req, res) => {
+    Car.findById(req.params.id)
+    .then(items => {
+        res.render('car_edit', items)
     })
 })
 
