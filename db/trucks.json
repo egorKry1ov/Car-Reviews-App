@@ -21,7 +21,8 @@
         ],
         "url1": "https://media.ed.edmunds-media.com/stockphotos/chevrolet/silverado-1500/2021/default-815x543.jpg",
         "url2": "https://media.ed.edmunds-media.com/chevrolet/silverado-1500/2021/evox/2021_chevrolet_silverado-1500_crew-cab-pickup_rst_tds_evox_7_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/chevrolet/silverado-1500/2021/evox/2021_chevrolet_silverado-1500_crew-cab-pickup_rst_tds2_evox_7_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/chevrolet/silverado-1500/2021/evox/2021_chevrolet_silverado-1500_crew-cab-pickup_rst_tds2_evox_7_1280x855.jpg",
+        "msrp": "$35,600 - $57,700"
     },
     {
         "make": "Ram",
@@ -42,7 +43,8 @@
         ],
         "url1": "https://media.ed.edmunds-media.com/ram/1500/2020/oem/2020_ram_1500_crew-cab-pickup_big-horn_fq_oem_2_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/ram/1500/2020/oem/2020_ram_1500_crew-cab-pickup_big-horn_fq_oem_1_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/ram/1500/2020/oem/2020_ram_1500_crew-cab-pickup_laramie_fq_oem_2_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/ram/1500/2020/oem/2020_ram_1500_crew-cab-pickup_laramie_fq_oem_2_1280x855.jpg",
+        "msrp": "$33,999 - $61,998"
     },
     {
         "make": "Ford",
@@ -64,7 +66,8 @@
         ],
         "url1": "https://media.ed.edmunds-media.com/ford/f-150/2019/oem/2019_ford_f-150_extended-cab-pickup_raptor_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/ford/f-150/2019/oem/2019_ford_f-150_extended-cab-pickup_raptor_fq_oem_2_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/ford/f-150/2019/oem/2019_ford_f-150_extended-cab-pickup_raptor_rq_oem_1_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/ford/f-150/2019/oem/2019_ford_f-150_extended-cab-pickup_raptor_rq_oem_1_1280x855.jpg",
+        "msrp": "$29,998 - $42,997"
     },{
         "make": "GMC",
         "model": "Sierra 1500",
@@ -85,7 +88,8 @@
         ],
         "url1": "https://media.ed.edmunds-media.com/gmc/sierra-1500/2020/oem/2020_gmc_sierra-1500_crew-cab-pickup_at4_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/gmc/sierra-1500/2020/oem/2020_gmc_sierra-1500_crew-cab-pickup_at4_rq_oem_1_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/gmc/sierra-1500/2020/oem/2020_gmc_sierra-1500_crew-cab-pickup_at4_f_oem_1_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/gmc/sierra-1500/2020/oem/2020_gmc_sierra-1500_crew-cab-pickup_at4_f_oem_1_1280x855.jpg",
+        "msrp": "$36,400 - $59,600"
     },{
         "make": "Honda",
         "model": "Ridgeline",
@@ -107,7 +111,8 @@
         ],
         "url1": "https://media.ed.edmunds-media.com/honda/ridgeline/2021/oem/2021_honda_ridgeline_crew-cab-pickup_rtl-e_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/honda/ridgeline/2021/oem/2021_honda_ridgeline_crew-cab-pickup_rtl-e_fq_oem_4_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/honda/ridgeline/2021/oem/2021_honda_ridgeline_crew-cab-pickup_rtl-e_fq_oem_2_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/honda/ridgeline/2021/oem/2021_honda_ridgeline_crew-cab-pickup_rtl-e_fq_oem_2_1280x855.jpg",
+        "msrp": "$36,490 - $43,920"
     },{
         "make": "Jeep",
         "model": "Gladiator",
@@ -127,7 +132,8 @@
         ],
         "url1": "https://media.ed.edmunds-media.com/jeep/gladiator/2020/oem/2020_jeep_gladiator_crew-cab-pickup_mojave_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/jeep/gladiator/2020/oem/2020_jeep_gladiator_crew-cab-pickup_mojave_fq_oem_3_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/jeep/gladiator/2020/oem/2020_jeep_gladiator_crew-cab-pickup_mojave_fq_oem_5_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/jeep/gladiator/2020/oem/2020_jeep_gladiator_crew-cab-pickup_mojave_fq_oem_5_1280x855.jpg",
+        "msrp": "$37,387 - $58,998"
     },{
         "make": "Nissan",
         "model": "Titan",
@@ -149,7 +155,8 @@
         ],
         "url1": "https://media.ed.edmunds-media.com/nissan/titan/2019/oem/2019_nissan_titan_crew-cab-pickup_pro-4x_fq_oem_4_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/nissan/titan/2019/oem/2019_nissan_titan_crew-cab-pickup_pro-4x_rq_oem_1_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/nissan/titan/2019/oem/2019_nissan_titan_crew-cab-pickup_pro-4x_fq_oem_2_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/nissan/titan/2019/oem/2019_nissan_titan_crew-cab-pickup_pro-4x_fq_oem_2_1280x855.jpg",
+        "msrp": "$21,223 - $49,990"
     },{
         "make": "Toyota",
         "model": "Tacoma",
@@ -168,7 +175,8 @@
         ],
         "url1": "https://media.ed.edmunds-media.com/toyota/tacoma/2020/oem/2020_toyota_tacoma_crew-cab-pickup_trd-off-road_fq_oem_5_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/toyota/tacoma/2020/oem/2020_toyota_tacoma_crew-cab-pickup_trd-off-road_rq_oem_1_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/toyota/tacoma/2020/oem/2020_toyota_tacoma_crew-cab-pickup_trd-off-road_rq_oem_2_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/toyota/tacoma/2020/oem/2020_toyota_tacoma_crew-cab-pickup_trd-off-road_rq_oem_2_1280x855.jpg",
+        "msrp": "$27,230 - $47,030"
     },{
         "make": "Toyota",
         "model": "Tundra",
@@ -188,6 +196,7 @@
         ],
         "url1": "https://media.ed.edmunds-media.com/toyota/tundra/2022/oem/2022_toyota_tundra_crew-cab-pickup_1794-edition_fq_oem_2_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/toyota/tundra/2022/oem/2022_toyota_tundra_crew-cab-pickup_1794-edition_fq_oem_3_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/toyota/tundra/2022/oem/2022_toyota_tundra_crew-cab-pickup_1794-edition_fq_oem_4_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/toyota/tundra/2022/oem/2022_toyota_tundra_crew-cab-pickup_1794-edition_fq_oem_4_1280x855.jpg",
+        "msrp": " $38,000 - $73,530"
     }
 ]

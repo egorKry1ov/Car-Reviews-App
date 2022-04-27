@@ -1,7 +1,7 @@
-<h1>New Article</h1>
 <form action="/news" method="POST">
-
-    <div class="mb-3 col-md-6">
+    
+    <div class="mb-3 col-md-6 margin">
+        <h1>New Article</h1>
         <label class="form-label" for="heading">Article:</label>
         <input class="form-control" type="text" name="heading"/>
         <label class="form-label" for="img">Img:</label>
@@ -11,7 +11,7 @@
         <label class="form-label" for="description">Description:</label>
         <input class="form-control" type="text" name="description"/>
 
+        <input type="submit" class="btn btn-primary"/> 
+        <a href="/news" class="btn btn-danger">Cancel</a>
     </div>
-    <input type="submit" class="btn btn-primary"/> 
-    <a href="/news" class="btn btn-danger">Cancel</a>
 </form>

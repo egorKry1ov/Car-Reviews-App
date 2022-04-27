@@ -27,7 +27,7 @@ router.delete("/:id", (req, res) => {
     );
 });
 
-router.put("/edit/:id", (req, res) => {
+router.put("/:id", (req, res) => {
     New.findOneAndUpdate({ _id: req.params.id }, req.body).then(
         (items) => res.redirect('/news')
     );
@@ -45,7 +45,7 @@ router.get('/:id', (req, res) => {
 })
 
 router.get('/edit/:id', (req, res) => {
-    Car.findById(req.params.id)
+    New.findById(req.params.id)
     .then(items => {
         res.render('new_edit', items)
     })

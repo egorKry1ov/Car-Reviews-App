@@ -20,7 +20,7 @@ router.delete("/:id", (req, res) => {
     );
 });
 
-router.put("/edit/:id", (req, res) => {
+router.put("/:id", (req, res) => {
     Luxury.findOneAndUpdate({ _id: req.params.id }, req.body).then(
         (items) => res.redirect('/luxuries')
     );

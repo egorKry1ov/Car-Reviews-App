@@ -1,9 +1,10 @@
 
-<div class="box_container">
+<h1 class="fw-bold page-heading margin">Sedans and SUVs</h1>
+
+<div class="box_container margin">
     <% data.forEach(item => { %>
         <div class="cards">
             <img src='<%=item.img%>' height='200' />
-            <a href="/cars/<%=item.id%>"></a>
             <div class='text-block'>
                 <a class="btn btn-danger" href="/cars">
                 <%=item.rating%>
@@ -28,4 +29,5 @@
             </div>
         </div>
     <% }) %>
+
 </div>

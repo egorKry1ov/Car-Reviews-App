@@ -17,7 +17,8 @@ const TruckSchema = new mongoose.Schema({
     cons: Array,
     url1: String,
     url2: String,
-    url3: String
+    url3: String,
+    msrp: String
 
 })
 

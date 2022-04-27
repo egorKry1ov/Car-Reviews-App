@@ -1,5 +1,31 @@
 [
     {
+        "heading": "Corvette EV Officially Confirmed, Hybrid Coming in 2023",
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2022-04-25-at-9-04-53-am-1650892119.png?crop=1.00xw:0.958xh;0,0.0421xh&resize=980:*",
+        "date": "APR 25, 2022",
+        "description": "What's more radical, a mid-engine Corvette or an electric Corvette? We're about to find out, as GM President Mark Reuss confirmed today on CNBC that a Corvette EV is nigh and that it is coming soon after Chevy launches a hybrid model in 2023."
+    },
+    {
+        "heading": "1983 Datsun 280ZX Is Today's BaT Auction Pick",
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2022-04-22-at-12-49-43-pm-1650651293.png?crop=1.00xw:1.00xh;0,0&resize=980:*",
+        "date": "APR 25, 2022",
+        "description": "The seller of this 1983 Datsun 280ZX, Adamike, would appear to be quite a fan of the Japanese marque judging by the giant, dealership-sized DATSUN sign in front of which he parked this vintage Z. If that visual seems vaguely familiar, it may be because this seller has used it in previous BaT sales—for a 36,000-mile '78 280Z that brought $61,000 back in October and a remarkable 355-mile 1976 280Z that went for $140,000 in November."
+    },
+    
+    {
+        "heading": "Audi's Latest C-V2X Project May Save Your Child's Life",
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/audi-urbansphere-concept-101-1649962466.jpg?crop=1xw:1xh;center,top&resize=980:*",
+        "date": "APR 25, 2022",
+        "description": "Audi isn't a name you typically associate with school buses, but the brand is working with Navistar on a new project that is meant to make it safer for cars and school buses to share the road. The partnership aims to use cellular vehicle-to-everything (known as C-V2X) technology to create a line of communication between the German brand's cars and the drivers of school buses, as well as other vehicles such as ambulances."
+    },
+    
+    {
+        "heading": "2022 Porsche 718 Cayman GT4 RS Dismisses the Cayman Complex",
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cdb050122porschegtpackage-018-1649943204.jpg?crop=0.563xw:0.844xh;0.168xw,0&resize=980:*",
+        "date": "APR 25, 2022",
+        "description": "The Porsche Cayman has long been overshadowed by the 911 to keep the brand’s hierarchy in check. But with the new Cayman GT4 RS, Porsche has finally installed the 911 GT3’s engine in the 718 and created the best sendoff to internal combustion we’ve seen yet."
+    },
+    {
         "heading": "Aston Martin Joins EV Club:First One Out in 2025",
         "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/aston-martin-valhalla-101-1626200852.jpg?crop=1.00xw:1.00xh;0,0&resize=768:*",
         "date": "APR 22, 2022",
@@ -53,5 +79,21 @@
         "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/in-an-aerial-view-tesla-cars-sit-parked-in-a-lot-at-the-news-photo-1650560535.jpg?crop=0.90829xw:1xh;center,top&resize=768:*",
         "date": "APR 21, 2022",
         "description": "Tesla's Elon Musk is back with another bold claim. Speaking during Tesla's first-quarter earnings call Wednesday night, CEO Musk claimed that Tesla will begin volume production of a 'robotaxi' by 2024, as reported by Automotive News. This vehicle, he said, will not be fitted with a steering wheel or pedals and will instead drive itself using Tesla's Full Self-Driving software, which is still undergoing beta testing."
+    },
+
+    {
+        "heading": "2023 BMW 7-Series Doubles Down on Its Flagship Status",
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2023-bmw-760i-xdrive-101-1650340309.jpg?crop=1.00xw:0.753xh;0,0.199xh&resize=980:*",
+        "date": "APR 20, 2022",
+        "description": "The BMW 7-series has never quite enjoyed the same clout as the Mercedes S-class, but the latest G70 generation is here to make sure that the world doesn't forget that it still serves as the Roundel's flagship model. The 2023 7-series introduces a new design language for the brand with a distinctive front end and is chock full of new features including a movie-theater-style screen and a hands-free highway driver-assistance feature. It is also part of BMW's expanding lineup of electric models, as the lineup now includes an EV version called the i7 that shares its body and interior with the gas-powered sedan but swaps in a large battery pack and electric motors."
+    },
+
+    {
+        "heading": "Lincoln Star EV Concept Illuminates the Future of Ford's Luxury Brand",
+        "img": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lincoln-star-concept-102-1650471258.jpg?crop=0.752xw:1.00xh;0.148xw,0&resize=980:*",
+        "date": "APR 21, 2022",
+        "description": "Like pretty much every car company by this point, Lincoln has centered its crosshairs on an electrified portfolio. Just before Ford's luxury brand revealed its electric concept, Lincoln's famous hood star emblem glowed visibly under the sheer silk covering. As a presentation, it wasn't subtle, but it was certainly in keeping with the theme of the presentation: light, transparency, and electricity. Lincoln president Joy Falotico says that by 2025 the brand will offer three new electric vehicles, with a goal of half its global volume being EVs before 2030. The Lincoln Star concept—again, not so much with the subtlety on that name, but we appreciate the point—was created to showcase Lincoln's approach to design and experience on an electric platform."
     }
+
+
 ]

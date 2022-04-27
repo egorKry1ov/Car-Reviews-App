@@ -15,13 +15,6 @@ router.post("/", (req, res) => {
         console.log()
 });
 
-router.post("/search", (req, res) => {
-    Car.find({make: req.body.make})
-        .then((cars) => { 
-            console.log(cars) 
-            res.render('car_index', { data: cars})
-        })
-});
 
 router.delete("/:id", (req, res) => {
     Car.findOneAndRemove({ _id: req.params.id }).then((items) =>
@@ -29,7 +22,7 @@ router.delete("/:id", (req, res) => {
     );
 });
 
-router.put("/edit/:id", (req, res) => {
+router.put("/:id", (req, res) => {
     Car.findOneAndUpdate({ _id: req.params.id }, req.body).then(
         (items) => res.redirect('/cars')
     );

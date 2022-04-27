@@ -1,18 +1,20 @@
 
-<div class="box_container">
+<h1 class="fw-bold page-heading margin">Car News</h1>
+
+<div class="box_container margin">
     <% data.forEach(item => { %>
         <div class="cards">
             <img src='<%=item.img%>' height='200' />
             <a href="/news/<%=item.id%>"></a>
             <div class="font main-text">
-                <div style="font-size: 12px;">
+                <div class="fw-bold" style="font-size: 14px;">
                 <%=item.heading%> 
                 </div>
-                <div><%=item.date%></div>
+                <p class="card-text"><small class="text-muted"><%=item.date%></small></p>
             </div>
             <div class="cardButtonParent">
-                <a  class="btn btn-secondary" href="/news/<%=item.id%>">Description</a> 
-                <a href="/news/<%=item.id%>" class="btn btn-secondary">Edit</a>
+                <a  class="btn btn-secondary" href="/news/<%=item.id%>">Read more</a> 
+                <a href="/news/edit/<%=item.id%>" class="btn btn-secondary">Edit</a>
                 <form action="/news/<%=item.id%>?_method=DELETE" method="POST">
                     <input class="btn btn-dark"
                         type="submit"
@@ -23,3 +25,34 @@
         </div>
     <% }) %>
 </div>
+
+<!-- <% data.forEach(item => { %>
+    <div class="card mb-3 " style="max-width: 540px;">
+    <div class="row g-0">
+        <div class="col-md-4">
+        <img src="<%=item.img%>" class="img-fluid rounded-start">
+        </div>
+        <div class="col-md-8">
+        <div class="card-body">
+            <h5 class="card-text"><%=item.heading%></h5>
+            <p class="card-text"><small class="text-muted"><%=item.date%></small></p>
+        </div>
+        </div>
+    </div>
+    </div>
+<% }) %> -->
+
+<!-- <div class="row row-cols-1 row-cols-md-2 g-4">
+<% data.forEach(item => { %>
+    <div class="col">
+      <div class="card">
+        <img src="<%=item.img%>" class="card-img-top">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text"><%=item.heading%></p>
+        </div>
+      </div>
+    </div>
+</div>
+<% }) %> -->
+  

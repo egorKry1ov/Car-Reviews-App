@@ -1,5 +1,7 @@
 
-<div class="box_container">
+<h1 class="fw-bold page-heading margin">Pick Up Trucks</h1>
+
+<div class="box_container margin">
     <% data.forEach(item => { %>
         <div class="cards">
             <img src='<%=item.img%>' height='200' />
@@ -17,7 +19,7 @@
             </div>
             <div class="cardButtonParent">
                 <a  class="btn btn-secondary" href="/trucks/<%=item.id%>">Description</a> 
-                <a href="/trucks/<%=item.id%>" class="btn btn-secondary">Edit</a>
+                <a href="/trucks/edit/<%=item.id%>" class="btn btn-secondary">Edit</a>
                 <form action="/trucks/<%=item.id%>?_method=DELETE" method="POST">
                     <input class="btn btn-dark"
                         type="submit"

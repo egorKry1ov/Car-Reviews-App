@@ -1,92 +1,51 @@
+<div id="myCarousel" class=" carousel slide carousel-fade" data-bs-ride="carousel" >
+    <ol class="carousel-indicators">
+        <li data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" ></li>
+        <li data-bs-target="#myCarousel" data-bs-slide-to="1"></li>
+        <li data-bs-target="#myCarousel" data-bs-slide-to="2"></li>
+    </ol>
 
-<div class="box_container">
-    <% data.forEach(item => { %>
-        <div class="cards">
-            <img src='<%=item.img%>' height='200' />
-            <div class='text-block'>
-                <a class="btn btn-danger" href="/cars">
-                <%=item.rating%>
+    <div class="carousel-inner">
+        <div class="carousel-item main-carousel-item active">
+        <div class="overlay-image" style="background-image:url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lexus-lf-z-electrified-1622040420.jpg)"></div>
+            <div class="container main-page-container ">
+                <h1 class="fw-bold">LOOKING FOR A CAR?<h1>
+                <p class="fs-3">Find out what people say about your future car.</p>
+                <a href="/showcase" class="btn btn-outline-light">
+                    Click here
                 </a>
             </div>
-            <div class="font main-text">
-                <div style="text-align: center;">
-                <%=item.year%> 
-                <%=item.make%> 
-                <%=item.model%>
-                </div>
-            </div>
-            <div class="cardButtonParent">
-                <a  class="btn btn-secondary" href="/cars/<%=item.id%>">Description</a> 
-                <a href="/cars/<%=item.id%>" class="btn btn-secondary">Edit</a>
-                <form action="/cars/<%=item.id%>?_method=DELETE" method="POST">
-                    <input class="btn btn-dark"
-                        type="submit"
-                        value="Delete"
-                    />
-                </form>
-            </div>
         </div>
-    <% }) %>
-</div>
-
-<div class="box_container">
-    <% data.forEach(item => { %>
-        <div class="cards">
-            <img src='<%=item.img%>' height='200' />
-            <div class='text-block'>
-                <a class="btn btn-danger" href="/luxuries">
-                <%=item.rating%>
+        <div class="carousel-item main-carousel-item">
+        <div class="overlay-image" style="background-image:url(https://idsb.tmgrup.com.tr/ly/uploads/images/2021/09/17/145313.jpg)"></div>
+            <div class="container main-page-container">
+                <h1 class="fw-bold">LOOKING FOR A CAR?<h1>
+                <p class="fs-3">Find out what people say about your future car.</p>
+                <a href="/showcase" class="btn btn-outline-light">
+                    Click here
                 </a>
             </div>
-            <div class="font main-text">
-                <div style="text-align: center;">
-                <%=item.year%> 
-                <%=item.make%> 
-                <%=item.model%>
+        </div>
+        <div class="carousel-item main-carousel-item">
+            <div class="overlay-image" style="background-image:url(https://www.pv-magazine.com/wp-content/uploads/2022/03/646106-1200x514.jpg)"></div>
+                <div class="container main-page-container">
+                    <h1 class="fw-bold">LOOKING FOR A CAR?<h1>
+                    <p class="fs-3">Find out what people say about your future car.</p>
+                    <a href="/showcase" class="btn btn-outline-light">
+                        Click here
+                    </a>
                 </div>
             </div>
-            <div class="cardButtonParent">
-                <a  class="btn btn-secondary" href="/luxuries/<%=item.id%>">Description</a> 
-                <a href="/luxuries/<%=item.id%>" class="btn btn-secondary">Edit</a>
-                <form action="/luxuries/<%=item.id%>?_method=DELETE" method="POST">
-                    <input class="btn btn-dark"
-                        type="submit"
-                        value="Delete"
-                    />
-                </form>
-            </div>
-        </div>
-    <% }) %>
+    </div>
+    <a href="#myCarousel" class="carousel-control-prev" role="button" data-bs-slide="prev">
+        <span class="sr-only"></span>
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    </a>
+    <a href="#myCarousel" class="carousel-control-next" role="button" data-bs-slide="next">
+        <span class="sr-only"></span>
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    </a>
+</div>  
 
-</div>
+<div style="margin-top: 150px;"></div>
 
-<div class="box_container">
-    <% data.forEach(item => { %>
-        <div class="cards">
-            <img src='<%=item.img%>' height='200' />
-            <div class='text-block'>
-                <a class="btn btn-danger" href="/trucks">
-                <%=item.rating%>
-                </a>
-            </div>
-            <div class="font main-text">
-                <div style="text-align: center;">
-                <%=item.year%> 
-                <%=item.make%> 
-                <%=item.model%>
-                </div>
-            </div>
-            <div class="cardButtonParent">
-                <a  class="btn btn-secondary" href="/trucks/<%=item.id%>">Description</a> 
-                <a href="/trucks/<%=item.id%>" class="btn btn-secondary">Edit</a>
-                <form action="/trucks/<%=item.id%>?_method=DELETE" method="POST">
-                    <input class="btn btn-dark"
-                        type="submit"
-                        value="Delete"
-                    />
-                </form>
-            </div>
-        </div>
-    <% }) %>
-
-</div>

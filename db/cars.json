@@ -19,7 +19,8 @@
             ],
         "url1": "https://media.ed.edmunds-media.com/mazda/mx-5-miata/2018/oem/2018_mazda_mx-5-miata_convertible_club_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/mazda/mx-5-miata/2018/oem/2018_mazda_mx-5-miata_convertible_club_fq_oem_2_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/mazda/mx-5-miata/2018/oem/2018_mazda_mx-5-miata_convertible_club_rq_oem_1_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/mazda/mx-5-miata/2018/oem/2018_mazda_mx-5-miata_convertible_club_rq_oem_1_1280x855.jpg",
+        "msrp": "$26,830 - $32,295"
         },
     {
         "make": "Honda",
@@ -40,7 +41,8 @@
                     ],
         "url1": "https://lp-auto-assets.s3.us-east-1.amazonaws.com/20/Honda/accord/T1/header.jpg",
         "url2": "https://media.ed.edmunds-media.com/honda/accord/2018/oem/2018_honda_accord_sedan_sport_fq_oem_10_815x543.jpg",
-        "url3": "https://media.ed.edmunds-media.com/honda/accord/2018/oem/2018_honda_accord_sedan_sport_fq_oem_15_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/honda/accord/2018/oem/2018_honda_accord_sedan_sport_fq_oem_15_1280x855.jpg",
+        "msrp": "$23,995 - $37,999"
         }
         ,
     {
@@ -63,7 +65,8 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/ford/fusion/2019/oem/2019_ford_fusion_sedan_titanium_fq_oem_1_815.jpg",
         "url2": "https://media.ed.edmunds-media.com/ford/fusion/2019/oem/2019_ford_fusion_sedan_titanium_fq_oem_1_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/ford/fusion/2019/oem/2019_ford_fusion_sedan_titanium_edetail_oem_1_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/ford/fusion/2019/oem/2019_ford_fusion_sedan_titanium_edetail_oem_1_1280x855.jpg",
+        "msrp": "$17,499 - $32,999"
         }
 ,
     {
@@ -86,7 +89,8 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/nissan/altima/2020/oem/2020_nissan_altima_sedan_25-platinum_fq_oem_1_815.jpg",
         "url2": "https://media.ed.edmunds-media.com/nissan/altima/2020/oem/2020_nissan_altima_sedan_25-platinum_rq_oem_2_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/nissan/altima/2020/oem/2020_nissan_altima_sedan_25-platinum_f_oem_1_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/nissan/altima/2020/oem/2020_nissan_altima_sedan_25-platinum_f_oem_1_1280x855.jpg",
+        "msrp": "$24,550 - $34,250"
         },
     {
         "make": "Toyota",
@@ -107,7 +111,8 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/toyota/rav4/2019/oem/2019_toyota_rav4_4dr-suv_adventure_fq_oem_10_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/toyota/rav4/2019/oem/2019_toyota_rav4_4dr-suv_adventure_fq_oem_11_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/toyota/rav4/2019/oem/2019_toyota_rav4_4dr-suv_adventure_fq_oem_2_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/toyota/rav4/2019/oem/2019_toyota_rav4_4dr-suv_adventure_fq_oem_2_1280x855.jpg",
+        "msrp": "$22,983 - $40,998"
 
         },
     {
@@ -130,7 +135,8 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/acura/mdx/2019/oem/2019_acura_mdx_4dr-suv_sport-hybrid-sh-awd-wadvance-package_fq_oem_2_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/acura/mdx/2019/oem/2019_acura_mdx_4dr-suv_sport-hybrid-sh-awd-wadvance-package_fq_oem_3_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/acura/mdx/2019/oem/2019_acura_mdx_4dr-suv_sport-hybrid-sh-awd-wadvance-package_fq_oem_4_1280x855.jpg"                    
+        "url3": "https://media.ed.edmunds-media.com/acura/mdx/2019/oem/2019_acura_mdx_4dr-suv_sport-hybrid-sh-awd-wadvance-package_fq_oem_4_1280x855.jpg",
+        "msrp": "$29,998 - $49,998"                
         },
     {
         "make": "Acura",
@@ -152,7 +158,8 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/acura/ilx/2019/oem/2019_acura_ilx_sedan_technology-and-a-spec-packages_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/acura/ilx/2019/oem/2019_acura_ilx_sedan_technology-and-a-spec-packages_fq_oem_10_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/acura/ilx/2019/oem/2019_acura_ilx_sedan_technology-and-a-spec-packages_fq_oem_2_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/acura/ilx/2019/oem/2019_acura_ilx_sedan_technology-and-a-spec-packages_fq_oem_2_1280x855.jpg",
+        "msrp": "$25,950 - $31,850"
         },
     {
         "make": "Audi",
@@ -175,7 +182,8 @@
                     ],
                     "url1": "https://media.ed.edmunds-media.com/audi/a8/2019/oem/2019_audi_a8_sedan_l-30-tfsi-quattro_fq_oem_10_1280x855.jpg",
                     "url2": "https://media.ed.edmunds-media.com/audi/a8/2019/oem/2019_audi_a8_sedan_l-30-tfsi-quattro_fq_oem_4_1280x855.jpg",
-                    "url3": "https://media.ed.edmunds-media.com/audi/a8/2019/oem/2019_audi_a8_sedan_l-30-tfsi-quattro_s_oem_2_1280x855.jpg"
+                    "url3": "https://media.ed.edmunds-media.com/audi/a8/2019/oem/2019_audi_a8_sedan_l-30-tfsi-quattro_s_oem_2_1280x855.jpg",
+                    "msrp": "$60,796 - $66,990"
         },
     {
         "make": "Chevy",
@@ -199,7 +207,9 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/chevrolet/blazer/2019/oem/2019_chevrolet_blazer_4dr-suv_premier_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/chevrolet/blazer/2019/oem/2019_chevrolet_blazer_4dr-suv_premier_rq_oem_1_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/chevrolet/blazer/2019/oem/2019_chevrolet_blazer_4dr-suv_premier_f_oem_1_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/chevrolet/blazer/2019/oem/2019_chevrolet_blazer_4dr-suv_premier_f_oem_1_1280x855.jpg",
+        "msrp": "$29,500 - $46,000"
+
         },
     {
         "make": "Chevy",
@@ -222,7 +232,8 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/chevrolet/camaro/2020/oem/2020_chevrolet_camaro_coupe_3lt_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/chevrolet/camaro/2020/oem/2020_chevrolet_camaro_coupe_lt1_fq_oem_1_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/chevrolet/camaro/2020/oem/2020_chevrolet_camaro_coupe_zl1_fq_oem_1_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/chevrolet/camaro/2020/oem/2020_chevrolet_camaro_coupe_zl1_fq_oem_1_1280x855.jpg",
+        "msrp": "$25,000 - $63,000"
         },
     {
         "make": "Chevy",
@@ -244,7 +255,8 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/chevrolet/equinox/2018/oem/2018_chevrolet_equinox_4dr-suv_lt_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/chevrolet/equinox/2018/oem/2018_chevrolet_equinox_4dr-suv_lt_fq_oem_2_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/chevrolet/equinox/2018/oem/2018_chevrolet_equinox_4dr-suv_lt_rq_oem_1_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/chevrolet/equinox/2018/oem/2018_chevrolet_equinox_4dr-suv_lt_rq_oem_1_1280x855.jpg",
+        "msrp": "$19,988 - $33,998"
         },
     {
         "make": "Dodge",
@@ -265,7 +277,8 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/dodge/durango/2021/oem/2021_dodge_durango_4dr-suv_srt-hellcat_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/dodge/durango/2021/oem/2021_dodge_durango_4dr-suv_srt-hellcat_fq_oem_3_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/dodge/durango/2021/oem/2021_dodge_durango_4dr-suv_srt-hellcat_rq_oem_1_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/dodge/durango/2021/oem/2021_dodge_durango_4dr-suv_srt-hellcat_rq_oem_1_1280x855.jpg",
+        "msrp": "$32,570 - $80,995"
         },
     {
         "make": "Dodge",
@@ -286,7 +299,8 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/dodge/charger/2020/oem/2020_dodge_charger_sedan_gt_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/dodge/charger/2020/oem/2020_dodge_charger_sedan_gt_rq_oem_1_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/dodge/charger/2020/oem/2020_dodge_charger_sedan_scat-pack-widebody_fq_oem_3_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/dodge/charger/2020/oem/2020_dodge_charger_sedan_scat-pack-widebody_fq_oem_3_1280x855.jpg",
+        "msrp": "$26,000 - $82,299"
         },
     {
         "make": "Ford",
@@ -307,14 +321,15 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/ford/bronco/2021/oem/2021_ford_bronco_4dr-suv_badlands_fq_oem_5_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/ford/bronco/2021/oem/2021_ford_bronco_4dr-suv_badlands_rq_oem_2_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/ford/bronco/2021/oem/2021_ford_bronco_4dr-suv_badlands_edetail_oem_1_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/ford/bronco/2021/oem/2021_ford_bronco_4dr-suv_badlands_edetail_oem_1_1280x855.jpg",
+        "msrp": "$28,500 - $61,110"
         },
     {
         "make": "Ford",
         "model": "Edge",
         "year": 2020,
         "img": "https://media-service.carmax.com/img/vehicles/22406038/1_cleaned.jpg?width=800",
-        "description": "Buyers looking for a midsize SUV that's a little nicer than the mainstream choices without a budget-busting price will find plenty to like in the 2020 Ford Edge. It's tight and controlled on the road and drives much like a sedan. The quietness of its cabin and the expansive passenger and cargo space are impressive, and it has one of the roomiest interiors in its class.The Edge can be equipped at near-luxury levels, but even in base form it offers many advanced driver safety aids and a robust list of standard features. The standard turbocharged four-cylinder engine does a commendable job hauling the Edge's not-insignificant mass, and it even achieves respectable fuel economy while doing it.The Sync 3 infotainment system, which is standard across the lineup, is one of the better tech interfaces on the market, especially when you take advantage of its voice controls. For 2020, however, the Edge finally ditches the CD player. With Apple CarPlay and Android Auto included on all trims, most people won't miss it. But, please, a moment of silence.A few other desirable models offer an upscale approach to the crossover SUV formula. The GMC Acadia or the Kia Sorento might be a better pick for buyers seeking a third row, and the recently redesigned Hyundai Santa Fe is also a compelling choice. Still, the Edge's roomy interior, respectable fuel economy and enjoyable driving character make it a worthwhile addition to the test-drive list.",
+        "description": "Buyers looking for a midsize SUV that's a little nicer than the mainstream choices without a budget-busting price will find plenty to like in the 2020 Ford Edge. It's tight and controlled on the road and drives much like a sedan. The quietness of its cabin and the expansive passenger and cargo space are impressive, and it has one of the roomiest interiors in its class.The Edge can be equipped at near-luxury levels, but even in base form it offers many advanced driver safety aids and a robust list of standard features. The standard turbocharged four-cylinder engine does a commendable job hauling the Edge's not-insignificant mass, and it even achieves respectable fuel economy while doing it.The Sync 3 infotainment system, which is standard across the lineup, is one of the better tech interfaces on the market, especially when you take advantage of its voice controls. For 2020, however, the Edge finally ditches the CD player. ",
         "rating": 7.6,
             "pros": [
                 "Plush, well-padded seats",
@@ -330,7 +345,8 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/ford/edge/2019/oem/2019_ford_edge_4dr-suv_titanium_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/ford/edge/2019/oem/2019_ford_edge_4dr-suv_titanium_fq_oem_3_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/ford/edge/2019/oem/2019_ford_edge_4dr-suv_titanium_rq_oem_1_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/ford/edge/2019/oem/2019_ford_edge_4dr-suv_titanium_rq_oem_1_1280x855.jpg",
+        "msrp": "$23,590 - $43,998"
         },
     {
         "make": "Ford",
@@ -351,14 +367,15 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/ford/escape/2021/oem/2021_ford_escape_4dr-suv_sel_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/ford/escape/2021/oem/2021_ford_escape_4dr-suv_sel_rq_oem_1_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/ford/escape/2021/oem/2021_ford_escape_4dr-suv_sel_rq_oem_2_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/ford/escape/2021/oem/2021_ford_escape_4dr-suv_sel_rq_oem_2_1280x855.jpg",
+        "msrp": "$24,885 - $36,155"
         },
     {
         "make": "Ford", 
         "model": "Mustang",
         "year": 2020,
         "img": "https://media-service.carmax.com/img/vehicles/22081023/1_cleaned.jpg?width=800",
-        "description": "In some ways, the 2020 Ford Mustang is as just as you'd expect it to be. It has rear-wheel drive, an available 5.0-liter V8 under the hood, and all sorts of factory options to make it faster, louder and more distinctive. What you might not expect about the Mustang is the way Ford has committed to the standard four-cylinder engine. Base Mustangs used to be underpowered and unloved but not anymore.The EcoBoost Mustang comes with a turbocharged 2.3-liter four-cylinder engine that cranks out a stout 310 horsepower and 350 lb-ft of torque. Not content with letting only the V8 Mustang have all the fun, Ford has added the High Performance package to the EcoBoost model for 2020. The Focus Focus RS-derived engine delivers 332 hp, and its 350 lb-ft of torque is spread across a wider rpm range than in the standard engine. Ford also adds the larger brakes from the V8 Mustang to this package. Also new for 2020 is the Handling package (available only with the High Performance package), which adds Ford's impressive MagneRide suspension, uprated sway bars and super sticky Pirelli tires.Inside, the Mustang is much the same as it has been for the past few years. Highlights include a pleasing retro design fitted with the latest technology options such as Ford's Sync infotainment system and adaptive cruise control. Drawbacks are predictable, however. These include limited rear-seat and trunk space and a stiff ride when you opt for the high-performance suspension. Overall, though, we thoroughly enjoyed the 2020 Ford Mustang. It's modern, fast, easy to drive, and available with just enough options to make it your own.",
+        "description": "In some ways, the 2020 Ford Mustang is as just as you'd expect it to be. It has rear-wheel drive, an available 5.0-liter V8 under the hood, and all sorts of factory options to make it faster, louder and more distinctive. What you might not expect about the Mustang is the way Ford has committed to the standard four-cylinder engine. Base Mustangs used to be underpowered and unloved but not anymore.The EcoBoost Mustang comes with a turbocharged 2.3-liter four-cylinder engine that cranks out a stout 310 horsepower and 350 lb-ft of torque. Not content with letting only the V8 Mustang have all the fun, Ford has added the High Performance package to the EcoBoost model for 2020. The Focus Focus RS-derived engine delivers 332 hp, and its 350 lb-ft of torque is spread across a wider rpm range than in the standard engine. Ford also adds the larger brakes from the V8 Mustang to this package. Also new for 2020 is the Handling package (available only with the High Performance package), which adds Ford's impressive MagneRide suspension, uprated sway bars and super sticky Pirelli tires.Inside, the Mustang is much the same as it has been for the past few years. Highlights include a pleasing retro design fitted with the latest technology options such as Ford's Sync infotainment system and adaptive cruise control. Drawbacks are predictable, however. These include limited rear-seat and trunk space and a stiff ride when you opt for the high-performance suspension.",
         "rating": 7.9,
             "pros": [
                 "Strong power from both the four-cylinder and V8 engines",
@@ -372,7 +389,8 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/ford/mustang/2020/oem/2020_ford_mustang_coupe_bullitt_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/ford/mustang/2020/oem/2020_ford_mustang_coupe_bullitt_fq_oem_2_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/ford/mustang/2020/oem/2020_ford_mustang_coupe_bullitt_rq_oem_1_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/ford/mustang/2020/oem/2020_ford_mustang_coupe_bullitt_rq_oem_1_1280x855.jpg",
+        "msrp": "$28,675 - $46,998"
         },
     {
         "make": "Honda",
@@ -393,7 +411,8 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/honda/civic/2019/oem/2019_honda_civic_sedan_si_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/honda/civic/2019/oem/2019_honda_civic_sedan_si_fq_oem_10_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/honda/civic/2019/oem/2019_honda_civic_sedan_si_fq_oem_4_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/honda/civic/2019/oem/2019_honda_civic_sedan_si_fq_oem_4_1280x855.jpg",
+        "msrp": "$20,590 - $30,998"
         },
     {
         "make": "Honda", 
@@ -413,7 +432,8 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/honda/passport/2019/oem/2019_honda_passport_4dr-suv_elite_fq_oem_10_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/honda/passport/2019/oem/2019_honda_passport_4dr-suv_elite_fq_oem_12_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/honda/passport/2019/oem/2019_honda_passport_4dr-suv_elite_rq_oem_1_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/honda/passport/2019/oem/2019_honda_passport_4dr-suv_elite_rq_oem_1_1280x855.jpg",
+        "msrp": "$33,000 - $45,642"
         },
     {
         "make": "Hyundai",
@@ -436,7 +456,8 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/hyundai/accent/2018/oem/2018_hyundai_accent_sedan_limited_fq_oem_13_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/hyundai/accent/2018/oem/2018_hyundai_accent_sedan_limited_fq_oem_15_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/hyundai/accent/2018/oem/2018_hyundai_accent_sedan_limited_fq_oem_16_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/hyundai/accent/2018/oem/2018_hyundai_accent_sedan_limited_fq_oem_16_1280x855.jpg",
+        "msrp": "$17,499 - $21,590"
         },
     {
         "make": "Hyundai",
@@ -457,7 +478,8 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/hyundai/sonata/2021/oem/2021_hyundai_sonata_sedan_limited_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/hyundai/sonata/2021/oem/2021_hyundai_sonata_sedan_limited_fq_oem_10_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/hyundai/sonata/2021/oem/2021_hyundai_sonata_sedan_limited_fq_oem_2_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/hyundai/sonata/2021/oem/2021_hyundai_sonata_sedan_limited_fq_oem_2_1280x855.jpg",
+        "msrp": "$23,950 - $33,950"
         },
     {
         "make": "Jeep", 
@@ -478,7 +500,8 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/jeep/cherokee/2021/oem/2021_jeep_cherokee_4dr-suv_80th-anniversary-edition_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/jeep/cherokee/2021/oem/2021_jeep_cherokee_4dr-suv_latitude-lux_fq_oem_1_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/jeep/cherokee/2019/oem/2019_jeep_cherokee_4dr-suv_limited_rq_oem_1_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/jeep/cherokee/2019/oem/2019_jeep_cherokee_4dr-suv_limited_rq_oem_1_1280x855.jpg",
+        "msrp": "$27,210 - $38,975"
         },
     {
         "make": "Jeep",
@@ -500,14 +523,15 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/jeep/grand-cherokee/2019/oem/2019_jeep_grand-cherokee_4dr-suv_limited-x_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/jeep/grand-cherokee/2019/oem/2019_jeep_grand-cherokee_4dr-suv_limited-x_fq_oem_2_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/jeep/grand-cherokee/2019/oem/2019_jeep_grand-cherokee_4dr-suv_summit_fq_oem_1_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/jeep/grand-cherokee/2019/oem/2019_jeep_grand-cherokee_4dr-suv_summit_fq_oem_1_1280x855.jpg",
+        "msrp": "$25,997 - $90,499"
         },
     {
         "make": "Kia",
         "model": "Forte",
         "year": 2019,
         "img": "https://media-service.carmax.com/img/vehicles/22084190/1_cleaned.jpg?width=800",
-        "description": "The Forte enters its third generation with new styling cues. The long hood and fastback-style sloping roofline mimic those from Kia's top Stinger sport sedan. Power hasn't changed; the Forte still uses a 2.0-liter four-cylinder rated at 147 horsepower, but a new continuously variable automatic transmission promises improved fuel economy. Last year's sporty Forte SX, with its turbocharged 201-hp engine, has been discontinued, but a similarly themed Forte GT is set to arrive for the 2020 model year.The new-generation Forte also retains the model's main draws: a wealth of desirable standard features starting from the base trim level, including dual-zone air conditioning, an 8-inch touchscreen tech interface, Apple CarPlay and Android Auto smartphone integration, and driver safety aids including automatic emergency braking and lane keeping assist.That's just the start, too. The top EX trim offers premium touches such as faux leather upholstery, heated and ventilated front seats, and a hands-free trunk. All Fortes also have 15.3 cubic feet of cargo space, a sizable amount for any compact car.The new Forte isn't without compromise, however. Acceleration is adequate, but we wouldn't call it impressive. Improved handling characteristics come at the expense of a stiffer ride, and overall the Forte's performance chops aren't quite as polished as those of its Honda and Mazda rivals. But for many drivers, the differences will be hard to spot. Overall, the Forte more than satisfies with its mix of great features, attractive style and appealing price.",
+        "description": "The Forte enters its third generation with new styling cues. The long hood and fastback-style sloping roofline mimic those from Kia's top Stinger sport sedan. Power hasn't changed; the Forte still uses a 2.0-liter four-cylinder rated at 147 horsepower, but a new continuously variable automatic transmission promises improved fuel economy. Last year's sporty Forte SX, with its turbocharged 201-hp engine, has been discontinued, but a similarly themed Forte GT is set to arrive for the 2020 model year.The new-generation Forte also retains the model's main draws: a wealth of desirable standard features starting from the base trim level, including dual-zone air conditioning, an 8-inch touchscreen tech interface, Apple CarPlay and Android Auto smartphone integration, and driver safety aids including automatic emergency braking and lane keeping assist.That's just the start, too. The top EX trim offers premium touches such as faux leather upholstery, heated and ventilated front seats, and a hands-free trunk. All Fortes also have 15.3 cubic feet of cargo space, a sizable amount for any compact car.The new Forte isn't without compromise, however. Acceleration is adequate, but we wouldn't call it impressive. Improved handling characteristics come at the expense of a stiffer ride, and overall the Forte's performance chops aren't quite as polished as those of its Honda and Mazda rivals. But for many drivers, the differences will be hard to spot.",
         "rating": 7.9,
             "pros": [
                 "Plenty of features for the money",
@@ -522,7 +546,8 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/kia/forte/2019/oem/2019_kia_forte_sedan_ex_fq_oem_12_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/kia/forte/2019/oem/2019_kia_forte_sedan_ex_rq_oem_4_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/kia/forte/2019/oem/2019_kia_forte_sedan_ex_rq_oem_2_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/kia/forte/2019/oem/2019_kia_forte_sedan_ex_rq_oem_2_1280x855.jpg",
+        "msrp": "$17,990 - $24,999"
         },
     {
         "make": "Kia", 
@@ -542,7 +567,8 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/kia/sorento/2021/oem/2021_kia_sorento_4dr-suv_sx_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/kia/sorento/2021/oem/2021_kia_sorento_4dr-suv_sx_fq_oem_2_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/kia/sorento/2021/oem/2021_kia_sorento_4dr-suv_sx_rbdg_oem_1_1280x855.jpg"
+        "url3": "https://media.ed.edmunds-media.com/kia/sorento/2021/oem/2021_kia_sorento_4dr-suv_sx_rbdg_oem_1_1280x855.jpg",
+        "msrp": "$29,390 - $42,590"
         },
     {
         "make": "Mazda",
@@ -564,6 +590,7 @@
                     ],
         "url1": "https://media.ed.edmunds-media.com/mazda/cx-5/2021/oem/2021_mazda_cx-5_4dr-suv_carbon-edition-turbo_fq_oem_1_1280x855.jpg",
         "url2": "https://media.ed.edmunds-media.com/mazda/cx-5/2021/oem/2021_mazda_cx-5_4dr-suv_carbon-edition-turbo_rq_oem_1_1280x855.jpg",
-        "url3": "https://media.ed.edmunds-media.com/mazda/cx-5/2021/oem/2021_mazda_cx-5_4dr-suv_signature_d_oem_1_1280x855.jpg"  
+        "url3": "https://media.ed.edmunds-media.com/mazda/cx-5/2021/oem/2021_mazda_cx-5_4dr-suv_signature_d_oem_1_1280x855.jpg",
+        "msrp": "$25,370 - $37,505" 
         }
     ]

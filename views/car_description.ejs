@@ -12,9 +12,10 @@
             <div class="container">
                 <h1><%=data.year%> 
                     <%=data.make%> 
-                    <%=data.model%> </h1>
+                    <%=data.model%> | MSRG:
+                    <%=data.msrp%></h1>
                 <p><%=data.description%></p>
-                <a href="/cars" class="btn btn-lg btn-primary">
+                <a href="/cars" class="btn btn-outline-secondary btn-lg" style="margin-left: 100px">
                     Go Back
                 </a>
             </div>
@@ -24,9 +25,10 @@
             <div class="container">
                 <h1><%=data.year%> 
                     <%=data.make%> 
-                    <%=data.model%></h1>
+                    <%=data.model%> | MSRG:
+                    <%=data.msrp%></h1>
                 <p><%=data.description%></p>
-                <a href="/cars" class="btn btn-lg btn-primary">
+                <a href="/cars" class="btn btn-outline-secondary btn-lg" style="margin-left: 100px">
                     Go Back
                 </a>
             </div>
@@ -36,9 +38,10 @@
                 <div class="container">
                     <h1><%=data.year%> 
                         <%=data.make%> 
-                        <%=data.model%></h1>
+                        <%=data.model%> | MSRG:
+                        <%=data.msrp%></h1>
                     <p><%=data.description%></p>
-                    <a href="/cars" class="btn btn-lg btn-primary">
+                    <a href="/cars" class="btn btn-outline-secondary btn-lg" style="margin-left: 100px">
                         Go Back
                     </a>
                 </div>
@@ -53,14 +56,13 @@
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
     </a>
 </div>  
-<div>
-</div>
+<div class="box_container" style="margin: 20px">
 <div class="form-group">
     <h3 class="font heading">Pros:</h3>
     <% data.pros.forEach(item => { %>
         <div>
-            <ul class="list-group">
-                <li class="list-group-item font"><%=item %></li>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item font">&#9745 <%=item %></li>
             </ul>
 
         </div>
@@ -70,10 +72,11 @@
     <h3 class="font heading">Cons:</h3>
     <% data.cons.forEach(item => { %>
         <div>
-            <ul class="list-group">
-                <li class="list-group-item font"><%=item %></li>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item font">&#9746 <%=item %></li>
             </ul>
 
         </div>
     <% }) %>
+</div>
 </div>
