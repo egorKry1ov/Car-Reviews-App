@@ -5,7 +5,7 @@ const router = express.Router()
 
 router.get('/', (req, res) => {
     Luxury.find({})
-    .then((luxuries) => res.render('Luxury_index', { data: luxuries }))
+    .then((luxuries) => res.render('luxury_index', { data: luxuries }))
 })
 
 router.post("/", (req, res) => {
