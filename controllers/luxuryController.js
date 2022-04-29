@@ -11,7 +11,6 @@ router.get('/', (req, res) => {
 router.post("/", (req, res) => {
     Luxury.create(req.body)
         .then(() => res.redirect('/luxuries'))
-        console.log()
 });
 
 router.delete("/:id", (req, res) => {
@@ -33,7 +32,7 @@ router.get('/new', (req, res) => {
 router.get('/:id', (req, res) => {
     Luxury.findById(req.params.id)
     .then(luxuries => {
-        res.render('Luxury_description', { data: luxuries })
+        res.render('luxury_description', { data: luxuries })
     })
 })
 

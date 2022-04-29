@@ -8,13 +8,10 @@ router.get('/', (req, res) => {
     .then((cars) => res.render('car_index', { data: cars }))
 })
 
-
 router.post("/", (req, res) => {
     Car.create(req.body)
         .then(() => res.redirect('/cars'))
-        console.log()
 });
-
 
 router.delete("/:id", (req, res) => {
     Car.findOneAndRemove({ _id: req.params.id }).then((items) =>

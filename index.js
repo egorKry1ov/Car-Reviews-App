@@ -50,7 +50,7 @@ app.post('/search', async (req, res) => {
         console.log(error)
     }
     })
-app.set('port', process.env.PORT || 4005)
+app.set('port', process.env.PORT || 4006)
 
 app.listen(app.get('port'), () => {
     console.log(`PORT: ${app.get('port')}` )
